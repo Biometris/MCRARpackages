@@ -643,3 +643,11 @@ Suggests: covr, dplyr (>= 0.7.8), httr, knitr, lubridate, rmarkdown, testthat (>
           tibble, tidyselect
 License: MIT + file LICENSE
 Archs: x64
+
+Package: quantreg
+Version: 5.97
+Depends: R (>= 3.5), stats, SparseM
+Imports: methods, graphics, Matrix, MatrixModels, survival, MASS
+Suggests: interp, rgl, logspline, nor1mix, Formula, zoo, R.rsp, conquer
+License: GPL (>= 2)
+Archs: x64
