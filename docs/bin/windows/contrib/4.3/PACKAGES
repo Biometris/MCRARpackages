@@ -239,6 +239,15 @@ Imports: abind, cluster, dendextend, FactoMineR, ggpubr(>= 0.1.5), grid, stats, 
 Suggests: ade4, ca, igraph, MASS, knitr, mclust
 License: GPL-2
 
+Package: FactoMineR
+Version: 2.9
+Depends: R (>= 4.0)
+Imports:
+          car,cluster,DT,ellipse,emmeans,flashClust,graphics,grDevices,lattice,leaps,MASS,multcompView,scatterplot3d,stats,utils,ggplot2,ggrepel
+Suggests: missMDA,knitr,Factoshiny,markdown
+License: GPL (>= 2)
+Archs: x64
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
