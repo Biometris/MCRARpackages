@@ -408,3 +408,10 @@ Imports: Matrix, igraph, MASS, grDevices, graphics, methods, stats, utils, Rcpp
 LinkingTo: Rcpp, RcppEigen
 License: GPL-2
 Archs: x64
+
+Package: isoband
+Version: 0.2.7
+Imports: grid, utils
+Suggests: covr, ggplot2, knitr, magick, microbenchmark, rmarkdown, sf, testthat, xml2
+License: MIT + file LICENSE
+Archs: x64
