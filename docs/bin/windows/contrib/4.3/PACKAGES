@@ -132,6 +132,17 @@ Imports: htmltools (>= 0.3.6), jsonlite, lazyeval, R6
 Suggests: shiny, ggplot2, testthat (>= 2.1.0), sass, bslib
 License: MIT + file LICENSE
 
+Package: dendextend
+Version: 1.17.1
+Depends: R (>= 3.0.0)
+Imports: utils, stats, datasets, magrittr (>= 1.0.1), ggplot2, viridis
+Suggests: knitr, rmarkdown, testthat, seriation, colorspace, ape, microbenchmark, gplots,
+          heatmaply, dynamicTreeCut, pvclust, corrplot, DendSer, MASS, cluster, fpc, circlize
+          (>= 0.2.5), covr
+Enhances: ggdendro, dendroextras, Hmisc, data.table, rpart, WGCNA, moduleColor, distory,
+          phangorn, zoo
+License: GPL-2 | GPL-3
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
