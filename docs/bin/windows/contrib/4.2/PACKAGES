@@ -256,6 +256,12 @@ Suggests: unitizer, knitr, rmarkdown
 License: GPL-2 | GPL-3
 Archs: x64
 
+Package: farver
+Version: 2.1.1
+Suggests: covr, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Archs: x64
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
