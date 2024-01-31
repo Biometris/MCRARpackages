@@ -113,6 +113,13 @@ Suggests: Cairo, covr, dplyr, forcats, gridGraphics (>= 0.4-0), knitr, lattice, 
           VennDiagram
 License: GPL-2
 
+Package: cpp11
+Version: 0.4.7
+Depends: R (>= 3.5.0)
+Suggests: bench, brio, callr, cli, covr, decor, desc, ggplot2, glue, knitr, lobstr, mockery,
+          progress, rmarkdown, scales, Rcpp, testthat (>= 3.2.0), tibble, utils, vctrs, withr
+License: MIT + file LICENSE
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
