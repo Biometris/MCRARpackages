@@ -492,3 +492,9 @@ Depends: R (>= 3.4.0)
 Suggests: covr, knitr, rlang, rmarkdown, testthat
 License: MIT + file LICENSE
 Archs: x64
+
+Package: MatrixModels
+Version: 0.5-3
+Depends: R (>= 3.6.0)
+Imports: stats, methods, Matrix (>= 1.6-0)
+License: GPL (>= 2)
