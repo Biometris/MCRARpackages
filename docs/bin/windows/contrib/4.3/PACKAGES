@@ -166,6 +166,14 @@ Suggests: knitr, rmarkdown
 License: GPL-2 | GPL-3
 Archs: x64
 
+Package: digest
+Version: 0.6.34
+Depends: R (>= 3.3.0)
+Imports: utils
+Suggests: tinytest, simplermarkdown
+License: GPL (>= 2)
+Archs: x64
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
