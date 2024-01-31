@@ -544,3 +544,8 @@ LinkingTo: testthat
 Suggests: knitr, rmarkdown, xml2, testthat (>= 3.0.0), covr
 License: LGPL (>= 3)
 Archs: x64
+
+Package: numDeriv
+Version: 2016.8-1.1
+Depends: R (>= 2.11.1)
+License: GPL-2
