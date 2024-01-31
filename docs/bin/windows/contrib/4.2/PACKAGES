@@ -806,3 +806,15 @@ Suggests: bench, bit64, blob, brio, callr, cli, covr, crayon (>= 1.3.4), Diagram
           tidyr, withr
 License: MIT + file LICENSE
 Archs: x64
+
+Package: tidyr
+Version: 1.3.1
+Depends: R (>= 3.6)
+Imports: cli (>= 3.4.1), dplyr (>= 1.0.10), glue, lifecycle (>= 1.0.3), magrittr, purrr (>=
+          1.0.1), rlang (>= 1.1.1), stringr (>= 1.5.0), tibble (>= 2.1.1), tidyselect (>=
+          1.2.0), utils, vctrs (>= 0.5.2)
+LinkingTo: cpp11 (>= 0.4.0)
+Suggests: covr, data.table, knitr, readr, repurrrsive (>= 1.1.0), rmarkdown, testthat (>=
+          3.0.0)
+License: MIT + file LICENSE
+Archs: x64
