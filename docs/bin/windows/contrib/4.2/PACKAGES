@@ -439,3 +439,8 @@ Suggests: bslib, codetools, DBI (>= 0.4-1), digest, formatR, gifski, gridSVG, ht
           (>= 1.2.0), targets (>= 0.6.0), testit, tibble, tikzDevice (>= 0.10), tinytex (>=
           0.46), webshot, rstudioapi, svglite, xml2 (>= 1.2.0)
 License: GPL
+
+Package: labeling
+Version: 0.4.3
+Imports: stats, graphics
+License: MIT + file LICENSE | Unlimited
