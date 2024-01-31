@@ -818,3 +818,12 @@ Suggests: covr, data.table, knitr, readr, repurrrsive (>= 1.1.0), rmarkdown, tes
           3.0.0)
 License: MIT + file LICENSE
 Archs: x64
+
+Package: tidyselect
+Version: 1.2.0
+Depends: R (>= 3.4)
+Imports: cli (>= 3.3.0), glue (>= 1.3.0), lifecycle (>= 1.0.3), rlang (>= 1.0.4), vctrs (>=
+          0.4.1), withr
+Suggests: covr, crayon, dplyr, knitr, magrittr, rmarkdown, stringr, testthat (>= 3.1.1),
+          tibble (>= 2.1.3)
+License: MIT + file LICENSE
