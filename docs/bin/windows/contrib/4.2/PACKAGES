@@ -606,3 +606,12 @@ Package: praise
 Version: 1.0.0
 Suggests: testthat
 License: MIT + file LICENSE
+
+Package: processx
+Version: 3.8.3
+Depends: R (>= 3.4.0)
+Imports: ps (>= 1.2.0), R6, utils
+Suggests: callr (>= 3.7.3), cli (>= 3.3.0), codetools, covr, curl, debugme, parallel, rlang
+          (>= 1.0.2), testthat (>= 3.0.0), webfakes, withr
+License: MIT + file LICENSE
+Archs: x64
