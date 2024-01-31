@@ -549,3 +549,10 @@ Package: numDeriv
 Version: 2016.8-1.1
 Depends: R (>= 2.11.1)
 License: GPL-2
+
+Package: pbkrtest
+Version: 0.5.2
+Depends: R (>= 4.1.0), lme4 (>= 1.1.31)
+Imports: broom, dplyr, MASS, Matrix (>= 1.2.3), methods, numDeriv, parallel
+Suggests: knitr
+License: GPL (>= 2)
