@@ -64,6 +64,15 @@ Suggests: asciicast, cli (>= 1.1.0), covr, mockery, ps, rprojroot, spelling, tes
           3.0.0), withr (>= 2.3.0)
 License: MIT + file LICENSE
 
+Package: car
+Version: 3.1-2
+Depends: R (>= 3.5.0), carData (>= 3.0-0)
+Imports: abind, MASS, mgcv, nnet, pbkrtest (>= 0.4-4), quantreg, grDevices, utils, stats,
+          graphics, lme4 (>= 1.1-27.1), nlme, scales
+Suggests: alr4, boot, coxme, effects, knitr, leaps, lmtest, Matrix, MatrixModels, mvtnorm, rgl
+          (>= 0.111.3), rio, sandwich, SparseM, survival, survey
+License: GPL (>= 2)
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
