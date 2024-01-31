@@ -143,6 +143,13 @@ Enhances: ggdendro, dendroextras, Hmisc, data.table, rpart, WGCNA, moduleColor, 
           phangorn, zoo
 License: GPL-2 | GPL-3
 
+Package: desc
+Version: 1.4.3
+Depends: R (>= 3.4)
+Imports: cli, R6, utils
+Suggests: callr, covr, gh, spelling, testthat, whoami, withr
+License: MIT + file LICENSE
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
