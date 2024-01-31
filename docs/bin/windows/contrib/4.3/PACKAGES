@@ -879,3 +879,12 @@ Imports: graphics, grDevices,
 Suggests: callr, covr, DBI, knitr, lattice, methods, rlang, rmarkdown (>= 2.12), RSQLite,
           testthat (>= 3.0.0)
 License: MIT + file LICENSE
+
+Package: xfun
+Version: 0.41
+Imports: stats, tools
+Suggests: testit, parallel, codetools, rstudioapi, tinytex (>= 0.30), mime, markdown (>= 1.5),
+          knitr (>= 1.42), htmltools, remotes, pak, rhub, renv, curl, jsonlite, magick, yaml,
+          rmarkdown
+License: MIT + file LICENSE
+Archs: x64
