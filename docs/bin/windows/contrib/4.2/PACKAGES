@@ -615,3 +615,11 @@ Suggests: callr (>= 3.7.3), cli (>= 3.3.0), codetools, covr, curl, debugme, para
           (>= 1.0.2), testthat (>= 3.0.0), webfakes, withr
 License: MIT + file LICENSE
 Archs: x64
+
+Package: promises
+Version: 1.2.1
+Imports: fastmap (>= 1.1.0), later, magrittr (>= 1.5), R6, Rcpp, rlang, stats
+LinkingTo: later, Rcpp
+Suggests: future (>= 1.21.0), knitr, purrr, rmarkdown, spelling, testthat, vembedr
+License: MIT + file LICENSE
+Archs: x64
