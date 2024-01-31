@@ -99,6 +99,11 @@ Suggests: datasets, utils, KernSmooth, MASS, kernlab, mvtnorm, vcd, tcltk, shiny
 License: BSD_3_clause + file LICENSE
 Archs: x64
 
+Package: corrplot
+Version: 0.92
+Suggests: seriation, knitr, RColorBrewer, rmarkdown, magrittr, prettydoc, testthat
+License: MIT + file LICENSE
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
