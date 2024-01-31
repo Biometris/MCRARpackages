@@ -17,6 +17,13 @@ Enhances: png
 License: GPL-2 | GPL-3
 Archs: x64
 
+Package: brio
+Version: 1.1.4
+Depends: R (>= 3.6)
+Suggests: covr, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Archs: x64
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
