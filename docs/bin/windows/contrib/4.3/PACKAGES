@@ -888,3 +888,9 @@ Suggests: testit, parallel, codetools, rstudioapi, tinytex (>= 0.30), mime, mark
           rmarkdown
 License: MIT + file LICENSE
 Archs: x64
+
+Package: yaml
+Version: 2.3.8
+Suggests: RUnit
+License: BSD_3_clause + file LICENSE
+Archs: x64
