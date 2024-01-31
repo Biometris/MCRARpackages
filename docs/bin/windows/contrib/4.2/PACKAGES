@@ -537,3 +537,10 @@ Imports: stats
 Suggests: qrng, numDeriv
 License: GPL-2
 Archs: x64
+
+Package: nloptr
+Version: 2.0.3
+LinkingTo: testthat
+Suggests: knitr, rmarkdown, xml2, testthat (>= 3.0.0), covr
+License: LGPL (>= 3)
+Archs: x64
