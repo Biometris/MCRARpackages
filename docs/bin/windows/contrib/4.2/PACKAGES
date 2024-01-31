@@ -73,6 +73,12 @@ Suggests: alr4, boot, coxme, effects, knitr, leaps, lmtest, Matrix, MatrixModels
           (>= 0.111.3), rio, sandwich, SparseM, survival, survey
 License: GPL (>= 2)
 
+Package: carData
+Version: 3.0-5
+Depends: R (>= 3.5.0)
+Suggests: car (>= 3.0-0)
+License: GPL (>= 2)
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
