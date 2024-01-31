@@ -510,3 +510,10 @@ Version: 0.12
 Imports: tools
 License: GPL
 Archs: x64
+
+Package: minqa
+Version: 1.2.6
+Imports: Rcpp (>= 0.9.10)
+LinkingTo: Rcpp
+License: GPL-2
+Archs: x64
