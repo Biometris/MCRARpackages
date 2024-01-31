@@ -676,3 +676,12 @@ Imports: methods, utils
 Suggests: tinytest, inline, rbenchmark, pkgKitten (>= 0.1.2)
 License: GPL (>= 2)
 Archs: x64
+
+Package: RcppEigen
+Version: 0.3.3.9.4
+Depends: R (>= 3.6.0)
+Imports: Rcpp (>= 0.11.0), stats, utils
+LinkingTo: Rcpp
+Suggests: Matrix, inline, tinytest, pkgKitten, microbenchmark
+License: GPL (>= 2) | file LICENSE
+Archs: x64
