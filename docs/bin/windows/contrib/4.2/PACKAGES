@@ -340,3 +340,8 @@ Version: 0.6.4
 Imports: ggplot2 (>= 3.3.5)
 Suggests: knitr, rmarkdown, testthat, vdiffr (>= 1.0.2)
 License: GPL-3 | file LICENSE
+
+Package: glasso
+Version: 1.11
+License: GPL-2
+Archs: x64
