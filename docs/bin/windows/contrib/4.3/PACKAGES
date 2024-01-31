@@ -764,3 +764,11 @@ Depends: R (>= 2.15), methods
 Imports: graphics, stats, utils
 License: GPL (>= 2)
 Archs: x64
+
+Package: stringi
+Version: 1.8.3
+Depends: R (>= 3.4)
+Imports: tools, utils, stats
+License: file LICENSE
+License_is_FOSS: yes
+Archs: x64
