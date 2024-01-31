@@ -150,6 +150,14 @@ Imports: cli, R6, utils
 Suggests: callr, covr, gh, spelling, testthat, whoami, withr
 License: MIT + file LICENSE
 
+Package: deSolve
+Version: 1.40
+Depends: R (>= 3.3.0)
+Imports: methods, graphics, grDevices, stats
+Suggests: scatterplot3d, FME
+License: GPL (>= 2)
+Archs: x64
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
