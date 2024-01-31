@@ -565,3 +565,10 @@ Suggests: bit64, DBI, debugme, DiagrammeR, dplyr, formattable, ggplot2, knitr, l
           nanotime, nycflights13, palmerpenguins, rmarkdown, scales, stringi, survival,
           testthat (>= 3.1.1), tibble, units (>= 0.7.2), vdiffr, withr
 License: MIT + file LICENSE
+
+Package: pkgbuild
+Version: 1.4.3
+Depends: R (>= 3.5)
+Imports: callr (>= 3.2.0), cli (>= 3.4.0), desc, processx, R6
+Suggests: covr, cpp11, knitr, mockery, Rcpp, rmarkdown, testthat (>= 3.0.0), withr (>= 2.3.0)
+License: MIT + file LICENSE
