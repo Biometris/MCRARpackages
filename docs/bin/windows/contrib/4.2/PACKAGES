@@ -89,6 +89,16 @@ Suggests: callr, covr, crayon, digest, glue (>= 1.6.0), grDevices, htmltools, ht
 License: MIT + file LICENSE
 Archs: x64
 
+Package: colorspace
+Version: 2.1-0
+Depends: R (>= 3.0.0), methods
+Imports: graphics, grDevices, stats
+Suggests: datasets, utils, KernSmooth, MASS, kernlab, mvtnorm, vcd, tcltk, shiny, shinyjs,
+          ggplot2, dplyr, scales, grid, png, jpeg, knitr, rmarkdown, RColorBrewer,
+          rcartocolor, scico, viridis, wesanderson
+License: BSD_3_clause + file LICENSE
+Archs: x64
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
