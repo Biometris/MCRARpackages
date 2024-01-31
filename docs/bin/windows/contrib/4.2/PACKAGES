@@ -49,6 +49,13 @@ Suggests: bsicons, curl, fontawesome, ggplot2, knitr, magrittr, rappdirs, rmarkd
           shiny (>= 1.8.0), testthat, thematic, withr
 License: MIT + file LICENSE
 
+Package: cachem
+Version: 1.0.8
+Imports: rlang, fastmap (>= 1.1.1)
+Suggests: testthat
+License: MIT + file LICENSE
+Archs: x64
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
