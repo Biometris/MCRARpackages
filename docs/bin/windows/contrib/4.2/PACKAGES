@@ -517,3 +517,9 @@ Imports: Rcpp (>= 0.9.10)
 LinkingTo: Rcpp
 License: GPL-2
 Archs: x64
+
+Package: multcompView
+Version: 0.1-9
+Imports: grid
+Suggests: multcomp, pgirmess, MASS
+License: GPL
