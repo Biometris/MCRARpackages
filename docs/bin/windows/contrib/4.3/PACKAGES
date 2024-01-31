@@ -231,6 +231,14 @@ Imports: methods
 Suggests: covr, ggplot2, lattice, rlang, testthat (>= 3.0.0), withr
 License: MIT + file LICENSE
 
+Package: factoextra
+Version: 1.0.7
+Depends: R (>= 3.1.2), ggplot2 (>= 2.2.0)
+Imports: abind, cluster, dendextend, FactoMineR, ggpubr(>= 0.1.5), grid, stats, reshape2,
+          ggrepel, tidyr
+Suggests: ade4, ca, igraph, MASS, knitr, mclust
+License: GPL-2
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
