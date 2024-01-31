@@ -268,6 +268,12 @@ Suggests: testthat (>= 2.1.1)
 License: MIT + file LICENSE
 Archs: x64
 
+Package: flashClust
+Version: 1.01-2
+Depends: R (>= 2.3.0)
+License: GPL (>= 2)
+Archs: x64
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
