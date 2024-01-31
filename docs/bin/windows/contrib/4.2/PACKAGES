@@ -281,6 +281,15 @@ Imports: rlang (>= 1.0.6), htmltools (>= 0.5.1.1)
 Suggests: covr, dplyr (>= 1.0.8), knitr (>= 1.31), testthat (>= 3.0.0), rsvg
 License: MIT + file LICENSE
 
+Package: fs
+Version: 1.6.3
+Depends: R (>= 3.4)
+Imports: methods
+Suggests: covr, crayon, knitr, pillar (>= 1.0.0), rmarkdown, spelling, testthat (>= 3.0.0),
+          tibble (>= 1.1.0), vctrs (>= 0.3.0), withr
+License: MIT + file LICENSE
+Archs: x64
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
