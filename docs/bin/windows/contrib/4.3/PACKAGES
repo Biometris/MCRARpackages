@@ -207,6 +207,18 @@ Suggests: covr, testthat
 License: MIT + file LICENSE
 Archs: x64
 
+Package: emmeans
+Version: 1.10.0
+Depends: R (>= 4.1.0)
+Imports: estimability (>= 1.4.1), graphics, methods, numDeriv, stats, utils, mvtnorm
+Suggests: bayesplot, bayestestR, biglm, brms, car, coda (>= 0.17), ggplot2, lattice,
+          logspline, mediation, mgcv, multcomp, multcompView, nlme, ordinal (>= 2014.11-12),
+          pbkrtest (>= 0.4-1), lme4, lmerTest (>= 2.0.32), MASS, MuMIn, rsm, knitr,
+          rmarkdown, sandwich, scales, splines, testthat, xtable (>= 1.8-2)
+Enhances: CARBayes, coxme, gee, geepack, MCMCglmm, MCMCpack, mice, nnet, pscl, rstanarm,
+          sommer, survival
+License: GPL-2 | GPL-3
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
