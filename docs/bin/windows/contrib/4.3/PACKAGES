@@ -504,3 +504,9 @@ Version: 2.0.1
 Imports: rlang (>= 0.4.10), cachem
 Suggests: digest, aws.s3, covr, googleAuthR, googleCloudStorageR, httr, testthat
 License: MIT + file LICENSE
+
+Package: mime
+Version: 0.12
+Imports: tools
+License: GPL
+Archs: x64
