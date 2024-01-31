@@ -473,3 +473,15 @@ Imports: cli (>= 3.4.0), glue, rlang (>= 1.1.0)
 Suggests: covr, crayon, knitr, lintr, rmarkdown, testthat (>= 3.0.1), tibble, tidyverse,
           tools, vctrs, withr
 License: MIT + file LICENSE
+
+Package: lme4
+Version: 1.1-35.1
+Depends: R (>= 3.5.0), Matrix (>= 1.2-1), methods, stats
+Imports: graphics, grid, splines, utils, parallel, MASS, lattice, boot, nlme (>= 3.1-123),
+          minqa (>= 1.1.15), nloptr (>= 1.0.4)
+LinkingTo: Rcpp (>= 0.10.5), RcppEigen (>= 0.3.3.9.4), Matrix
+Suggests: knitr, rmarkdown, MEMSS, testthat (>= 0.8.1), ggplot2, mlmRev, optimx (>= 2013.8.6),
+          gamm4, pbkrtest, HSAUR3, numDeriv, car, dfoptim, mgcv, statmod, rr2, semEff,
+          tibble, merDeriv
+License: GPL (>= 2)
+Archs: x64
