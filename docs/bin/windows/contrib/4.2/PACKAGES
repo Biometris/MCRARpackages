@@ -56,6 +56,14 @@ Suggests: testthat
 License: MIT + file LICENSE
 Archs: x64
 
+Package: callr
+Version: 3.7.3
+Depends: R (>= 3.4)
+Imports: processx (>= 3.6.1), R6, utils
+Suggests: asciicast, cli (>= 1.1.0), covr, mockery, ps, rprojroot, spelling, testthat (>=
+          3.0.0), withr (>= 2.3.0)
+License: MIT + file LICENSE
+
 Package: ggplot2
 Version: 3.4.4
 Depends: R (>= 3.3)
