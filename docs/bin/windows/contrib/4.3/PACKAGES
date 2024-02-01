@@ -410,6 +410,17 @@ License: GPL-2
 Archs: x64
 
 Package: igraph
+Version: 2.0.1.1
+Depends: methods, R (>= 3.5.0)
+Imports: cli, graphics, grDevices, lifecycle, magrittr, Matrix, pkgconfig (>= 2.0.0), rlang,
+          stats, utils
+LinkingTo: cpp11 (>= 0.4.7)
+Suggests: ape (>= 5.7-0.1), callr, decor, digest, graph, igraphdata, knitr, rgl, rmarkdown,
+          scales, stats4, tcltk, testthat, vdiffr, withr
+License: GPL (>= 2)
+Archs: x64
+
+Package: igraph
 Version: 2.0.1
 Depends: methods, R (>= 3.5.0)
 Imports: cli, graphics, grDevices, lifecycle, magrittr, Matrix, pkgconfig (>= 2.0.0), rlang,
