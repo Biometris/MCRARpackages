@@ -1333,6 +1333,13 @@ Imports: processx
 Suggests: ps, testthat
 License: MIT + file LICENSE
 
+Package: xtable
+Version: 1.8-4
+Depends: R (>= 2.10.0)
+Imports: stats, utils
+Suggests: knitr, plm, zoo, survival
+License: GPL (>= 2)
+
 Package: yaml
 Version: 2.3.8
 Suggests: RUnit
