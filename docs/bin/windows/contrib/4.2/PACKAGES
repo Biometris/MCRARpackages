@@ -1308,6 +1308,13 @@ Suggests: covr, curl, httr, knitr, magrittr, mockery, rmarkdown, testthat (>= 3.
 License: MIT + file LICENSE
 Archs: x64
 
+Package: xopen
+Version: 1.0.0
+Depends: R (>= 3.1)
+Imports: processx
+Suggests: ps, testthat
+License: MIT + file LICENSE
+
 Package: yaml
 Version: 2.3.8
 Suggests: RUnit
