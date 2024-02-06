@@ -1023,6 +1023,17 @@ Suggests: digest, dygraphs, fs, rsconnect, downlit (>= 0.4.0), katex (>= 1.4.0),
           2.4.2)
 License: GPL-3
 
+Package: roxygen2
+Version: 7.3.1
+Depends: R (>= 3.6)
+Imports: brew, cli (>= 3.3.0), commonmark, desc (>= 1.2.0), knitr, methods, pkgload (>=
+          1.0.2), purrr (>= 1.0.0), R6 (>= 2.1.2), rlang (>= 1.0.6), stringi, stringr (>=
+          1.0.0), utils, withr, xml2
+LinkingTo: cpp11
+Suggests: covr, R.methodsS3, R.oo, rmarkdown (>= 2.16), testthat (>= 3.1.2), yaml
+License: MIT + file LICENSE
+Archs: x64
+
 Package: rprojroot
 Version: 2.0.4
 Depends: R (>= 3.0.0)
