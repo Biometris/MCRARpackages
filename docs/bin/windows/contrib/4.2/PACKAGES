@@ -753,6 +753,14 @@ Version: 2016.8-1.1
 Depends: R (>= 2.11.1)
 License: GPL-2
 
+Package: officedown
+Version: 0.3.1
+Imports: knitr, rmarkdown, officer (>= 0.5.1), xml2, rlang, uuid, grDevices, yaml, utils,
+          memoise, rvg (>= 0.2.2)
+Suggests: ggplot2, flextable (>= 0.7.0), bookdown (>= 0.13), testthat (>= 3.0.0), doconv (>=
+          0.3.0)
+License: MIT + file LICENSE
+
 Package: pbkrtest
 Version: 0.5.2
 Depends: R (>= 4.1.0), lme4 (>= 1.1.31)
