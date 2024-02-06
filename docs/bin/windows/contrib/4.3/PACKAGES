@@ -397,6 +397,13 @@ Depends: R (>= 3.0)
 License: file LICENSE
 License_is_FOSS: yes
 
+Package: fontquiver
+Version: 0.2.1
+Depends: R (>= 3.0.0)
+Imports: fontBitstreamVera (>= 0.1.0), fontLiberation (>= 0.1.0)
+Suggests: testthat, htmltools
+License: GPL-3 | file LICENSE
+
 Package: fs
 Version: 1.6.3
 Depends: R (>= 3.4)
