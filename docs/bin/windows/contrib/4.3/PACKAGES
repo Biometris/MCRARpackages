@@ -772,6 +772,13 @@ Suggests: ggplot2, flextable (>= 0.7.0), bookdown (>= 0.13), testthat (>= 3.0.0)
           0.3.0)
 License: MIT + file LICENSE
 
+Package: officer
+Version: 0.6.4
+Imports: grDevices, stats, graphics, utils, zip (>= 2.1.0), xml2 (>= 1.1.0), openssl, R6,
+          uuid, ragg
+Suggests: testthat, devEMF, ggplot2, rmarkdown, doconv (>= 0.3.0), knitr, rsvg, magick
+License: MIT + file LICENSE
+
 Package: pbkrtest
 Version: 0.5.2
 Depends: R (>= 4.1.0), lme4 (>= 1.1.31)
