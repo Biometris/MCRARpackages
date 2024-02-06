@@ -967,6 +967,14 @@ Imports: tibble
 Suggests: covr, testthat
 License: MIT + file LICENSE
 
+Package: remotes
+Version: 2.4.2.1
+Depends: R (>= 3.0.0)
+Imports: methods, stats, tools, utils
+Suggests: brew, callr, codetools, curl, covr, git2r (>= 0.23.0), knitr, mockery, pkgbuild (>=
+          1.0.1), pingr, rmarkdown, rprojroot, testthat, webfakes, withr
+License: MIT + file LICENSE
+
 Package: reshape2
 Version: 1.4.4
 Depends: R (>= 3.1)
