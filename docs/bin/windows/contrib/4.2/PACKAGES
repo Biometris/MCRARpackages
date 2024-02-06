@@ -1042,6 +1042,16 @@ Imports: curl, utils, xml2 (>= 1.0.0)
 Suggests: covr, mockery, testthat
 License: MIT + file LICENSE
 
+Package: rvg
+Version: 0.3.3
+Depends: R (>= 3.0)
+Imports: grDevices, Rcpp (>= 0.12.12), officer (>= 0.6.2), gdtools (>= 0.3.3), xml2 (>=
+          1.0.0), rlang
+LinkingTo: Rcpp, gdtools
+Suggests: testthat, grid
+License: GPL-3
+Archs: x64
+
 Package: sass
 Version: 0.4.8
 Imports: fs (>= 1.2.4), rlang (>= 0.4.10), htmltools (>= 0.5.1), R6, rappdirs
