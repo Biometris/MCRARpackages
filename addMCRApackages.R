@@ -38,6 +38,18 @@ insertPackage(file = file.path(tmpDir, "proast70.3_0.01.zip"),
               repodir = paste0("."),
               commit = TRUE)
 
+## Add opex to repo.
+## For opex the source code is available. From this we compiled binaries for
+## R.4.2 and R.4.3. These are added to the repo.
+insertPackage(file = file.path("./opex/4.2", "opex_2.0.0.zip"),
+              repodir = paste0("."),
+              commit = TRUE)
+
+insertPackage(file = file.path("./opex/4.3", "opex_2.0.0.zip"),
+              repodir = paste0("."),
+              commit = TRUE)
+
+
 ## Add all other packages to github repo.
 ## Packages are added for R versions 4.2.x and 4.3.x.
 ## Only packages for which a newer version is available are added.
