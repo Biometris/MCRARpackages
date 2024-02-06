@@ -761,6 +761,13 @@ Suggests: ggplot2, flextable (>= 0.7.0), bookdown (>= 0.13), testthat (>= 3.0.0)
           0.3.0)
 License: MIT + file LICENSE
 
+Package: openssl
+Version: 2.1.1
+Imports: askpass
+Suggests: curl, testthat (>= 2.1.0), digest, knitr, rmarkdown, jsonlite, jose, sodium
+License: MIT + file LICENSE
+Archs: x64
+
 Package: pbkrtest
 Version: 0.5.2
 Depends: R (>= 4.1.0), lme4 (>= 1.1.31)
