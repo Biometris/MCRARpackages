@@ -1054,6 +1054,12 @@ Version: 0.15.0
 Suggests: testthat, knitr, rmarkdown, clipr, covr
 License: MIT + file LICENSE
 
+Package: rversions
+Version: 2.1.2
+Imports: curl, utils, xml2 (>= 1.0.0)
+Suggests: covr, mockery, testthat
+License: MIT + file LICENSE
+
 Package: sass
 Version: 0.4.8
 Imports: fs (>= 1.2.4), rlang (>= 0.4.10), htmltools (>= 0.5.1), R6, rappdirs
