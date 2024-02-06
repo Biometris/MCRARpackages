@@ -786,6 +786,13 @@ Suggests: curl, testthat (>= 2.1.0), digest, knitr, rmarkdown, jsonlite, jose, s
 License: MIT + file LICENSE
 Archs: x64
 
+Package: opex
+Version: 2.0.0
+Imports: shiny, devtools, DT, RCurl, uuid, htmltools, plyr, flextable, officer, magrittr,
+          stringr, bookdown, officedown
+Suggests: testthat, shinyjs, rmarkdown, rhandsontable, openxlsx
+License: MIT + file LICENSE
+
 Package: pbkrtest
 Version: 0.5.2
 Depends: R (>= 4.1.0), lme4 (>= 1.1.31)
