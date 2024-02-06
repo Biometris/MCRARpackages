@@ -1296,6 +1296,11 @@ Imports: cli, diffobj (>= 0.3.4), fansi, glue, methods, rematch2, rlang (>= 1.0.
 Suggests: covr, R6, testthat (>= 3.0.0), withr, xml2
 License: MIT + file LICENSE
 
+Package: whisker
+Version: 0.4.1
+Suggests: markdown
+License: GPL-3
+
 Package: withr
 Version: 3.0.0
 Depends: R (>= 3.5.0)
