@@ -971,6 +971,14 @@ Suggests: Matrix, inline, tinytest, pkgKitten, microbenchmark
 License: GPL (>= 2) | file LICENSE
 Archs: x64
 
+Package: RCurl
+Version: 1.98-1.14
+Depends: R (>= 3.4.0), methods
+Imports: bitops
+Suggests: XML
+License: BSD_3_clause + file LICENSE
+Archs: x64
+
 Package: rematch2
 Version: 2.1.2
 Imports: tibble
