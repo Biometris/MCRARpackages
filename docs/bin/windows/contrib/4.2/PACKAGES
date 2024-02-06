@@ -797,6 +797,18 @@ Imports: utils
 Suggests: covr, testthat, disposables (>= 1.0.3)
 License: MIT + file LICENSE
 
+Package: pkgdown
+Version: 2.0.7
+Depends: R (>= 3.1.0)
+Imports: bslib (>= 0.3.1), callr (>= 3.7.3), cli, desc, digest, downlit (>= 0.4.0), fs (>=
+          1.4.0), httr (>= 1.4.2), jsonlite, magrittr, memoise, purrr, ragg, rlang (>=
+          1.0.0), rmarkdown (>= 1.1.9007), tibble, whisker, withr (>= 2.4.3), xml2 (>=
+          1.3.1), yaml
+Suggests: covr, diffviewer, evaluate, htmltools, htmlwidgets, knitr, lifecycle, methods,
+          openssl, pkgload (>= 1.0.2), rsconnect, rstudioapi, rticles, sass, testthat (>=
+          3.1.3), tools
+License: MIT + file LICENSE
+
 Package: pkgload
 Version: 1.3.4
 Depends: R (>= 3.4.0)
