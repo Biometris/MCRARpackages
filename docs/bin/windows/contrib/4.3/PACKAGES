@@ -391,6 +391,12 @@ Depends: R (>= 3.0.0)
 License: file LICENCE
 License_is_FOSS: yes
 
+Package: fontLiberation
+Version: 0.1.0
+Depends: R (>= 3.0)
+License: file LICENSE
+License_is_FOSS: yes
+
 Package: fs
 Version: 1.6.3
 Depends: R (>= 3.4)
