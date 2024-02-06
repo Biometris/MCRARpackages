@@ -1111,6 +1111,13 @@ Suggests: datasets, Cairo (>= 1.5-5), testthat (>= 3.0.0), knitr (>= 1.6), markd
           showtext, sass
 License: GPL-3 | file LICENSE
 
+Package: sourcetools
+Version: 0.1.7-1
+Depends: R (>= 3.0.2)
+Suggests: testthat
+License: MIT + file LICENSE
+Archs: x64
+
 Package: SparseM
 Version: 1.81
 Depends: R (>= 2.15), methods
