@@ -837,6 +837,12 @@ Version: 1.0.0
 Suggests: testthat
 License: MIT + file LICENSE
 
+Package: prettyunits
+Version: 1.2.0
+Depends: R(>= 2.10)
+Suggests: codetools, covr, testthat
+License: MIT + file LICENSE
+
 Package: proast70.3
 Version: 0.01
 License: Unlimited
