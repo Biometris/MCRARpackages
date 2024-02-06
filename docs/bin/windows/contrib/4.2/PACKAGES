@@ -489,6 +489,13 @@ Imports: ggplot2 (>= 3.3.5)
 Suggests: knitr, rmarkdown, testthat, vdiffr (>= 1.0.2)
 License: GPL-3 | file LICENSE
 
+Package: gh
+Version: 1.4.0
+Depends: R (>= 3.4)
+Imports: cli (>= 3.0.1), gitcreds, httr2, ini, jsonlite, rlang (>= 1.0.0)
+Suggests: covr, knitr, mockery, rmarkdown, rprojroot, spelling, testthat (>= 3.0.0), withr
+License: MIT + file LICENSE
+
 Package: glasso
 Version: 1.11
 License: GPL-2
