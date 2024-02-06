@@ -779,6 +779,13 @@ Imports: grDevices, stats, graphics, utils, zip (>= 2.1.0), xml2 (>= 1.1.0), ope
 Suggests: testthat, devEMF, ggplot2, rmarkdown, doconv (>= 0.3.0), knitr, rsvg, magick
 License: MIT + file LICENSE
 
+Package: openssl
+Version: 2.1.1
+Imports: askpass
+Suggests: curl, testthat (>= 2.1.0), digest, knitr, rmarkdown, jsonlite, jose, sodium
+License: MIT + file LICENSE
+Archs: x64
+
 Package: pbkrtest
 Version: 0.5.2
 Depends: R (>= 4.1.0), lme4 (>= 1.1.31)
