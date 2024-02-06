@@ -613,6 +613,11 @@ Suggests: ape (>= 5.7-0.1), callr, decor, digest, graph, igraphdata, knitr, rgl,
 License: GPL (>= 2)
 Archs: x64
 
+Package: ini
+Version: 0.3.1
+Suggests: testthat
+License: GPL-3
+
 Package: isoband
 Version: 0.2.7
 Imports: grid, utils
