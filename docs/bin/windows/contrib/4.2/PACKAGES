@@ -177,6 +177,14 @@ Imports: htmltools (>= 0.3.6), jsonlite, lazyeval, R6
 Suggests: shiny, ggplot2, testthat (>= 2.1.0), sass, bslib
 License: MIT + file LICENSE
 
+Package: crul
+Version: 1.4.0
+Imports: curl (>= 3.3), R6 (>= 2.2.0), urltools (>= 1.6.0), httpcode (>= 0.2.0), jsonlite,
+          mime
+Suggests: testthat, roxygen2 (>= 7.1.1), fauxpas (>= 0.1.0), webmockr (>= 0.1.0), knitr,
+          rmarkdown
+License: MIT + file LICENSE
+
 Package: dendextend
 Version: 1.17.1
 Depends: R (>= 3.0.0)
