@@ -553,6 +553,11 @@ Suggests: testthat
 Enhances: shiny (>= 1.1)
 License: MIT + file LICENSE
 
+Package: httpcode
+Version: 0.3.0
+Suggests: testthat
+License: MIT + file LICENSE
+
 Package: httpuv
 Version: 1.6.14
 Depends: R (>= 2.15.1)
