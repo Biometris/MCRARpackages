@@ -24,6 +24,11 @@ Enhances: png
 License: GPL-2 | GPL-3
 Archs: x64
 
+Package: bitops
+Version: 1.0-7
+License: GPL (>= 2)
+Archs: x64
+
 Package: brio
 Version: 1.1.4
 Depends: R (>= 3.6)
