@@ -185,6 +185,14 @@ Suggests: testthat, roxygen2 (>= 7.1.1), fauxpas (>= 0.1.0), webmockr (>= 0.1.0)
           rmarkdown
 License: MIT + file LICENSE
 
+Package: curl
+Version: 5.2.0
+Depends: R (>= 3.0.0)
+Suggests: spelling, testthat (>= 1.0.0), knitr, jsonlite, later, rmarkdown, magrittr, httpuv
+          (>= 1.4.4), webutils
+License: MIT + file LICENSE
+Archs: x64
+
 Package: dendextend
 Version: 1.17.1
 Depends: R (>= 3.0.0)
