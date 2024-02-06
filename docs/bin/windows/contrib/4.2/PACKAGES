@@ -260,6 +260,14 @@ Suggests: tinytest, simplermarkdown
 License: GPL (>= 2)
 Archs: x64
 
+Package: downlit
+Version: 0.4.3
+Depends: R (>= 3.4.0)
+Imports: brio, desc, digest, evaluate, fansi, memoise, rlang, vctrs, withr, yaml
+Suggests: covr, htmltools, jsonlite, MASS, MassSpecWavelet, pkgload, rmarkdown, testthat (>=
+          3.0.0), xml2
+License: MIT + file LICENSE
+
 Package: dplyr
 Version: 1.1.4
 Depends: R (>= 3.5.0)
