@@ -476,3 +476,10 @@ Version: 0.6.4
 Imports: ggplot2 (>= 3.3.5)
 Suggests: knitr, rmarkdown, testthat, vdiffr (>= 1.0.2)
 License: GPL-3 | file LICENSE
+
+Package: gh
+Version: 1.4.1
+Depends: R (>= 3.6)
+Imports: cli (>= 3.0.1), gitcreds, glue, httr2, ini, jsonlite, lifecycle, rlang (>= 1.0.0)
+Suggests: covr, knitr, mockery, rmarkdown, rprojroot, spelling, testthat (>= 3.0.0), withr
+License: MIT + file LICENSE
