@@ -79,3 +79,10 @@ Imports: rlang, fastmap (>= 1.2.0)
 Suggests: testthat
 License: MIT + file LICENSE
 Archs: x64
+
+Package: callr
+Version: 3.7.6
+Depends: R (>= 3.4)
+Imports: processx (>= 3.6.1), R6, utils
+Suggests: asciicast (>= 2.3.1), cli (>= 1.1.0), mockery, ps, rprojroot, spelling, testthat (>= 3.2.0), withr (>= 2.3.0)
+License: MIT + file LICENSE
