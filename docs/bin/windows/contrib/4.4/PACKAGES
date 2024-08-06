@@ -821,3 +821,8 @@ Version: 1.4-1
 Imports: stats, graphics
 Suggests: knitr, rmarkdown
 License: GPL-2
+
+Package: praise
+Version: 1.0.0
+Suggests: testthat
+License: MIT + file LICENSE
