@@ -369,3 +369,10 @@ Suggests: bookdown (>= 0.34), broom, broom.mixed, chromote, cluster, commonmark,
              magick, mgcv, nlme, officedown, pdftools, pkgdown (>= 2.0.0), scales, svglite, tables (>= 0.9.17), testthat
              (>= 3.0.0), webshot2, withr, xtable
 License: GPL-3
+
+Package: fontawesome
+Version: 0.5.2
+Depends: R (>= 3.3.0)
+Imports: rlang (>= 1.0.6), htmltools (>= 0.5.1.1)
+Suggests: covr, dplyr (>= 1.0.8), knitr (>= 1.31), testthat (>= 3.0.0), rsvg
+License: MIT + file LICENSE
