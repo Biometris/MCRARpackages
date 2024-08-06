@@ -42,3 +42,10 @@ Package: brew
 Version: 1.0-10
 Suggests: testthat (>= 3.0.0)
 License: GPL (>= 2)
+
+Package: brio
+Version: 1.1.5
+Depends: R (>= 3.6)
+Suggests: covr, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Archs: x64
