@@ -722,3 +722,11 @@ Version: 0.5.1
 Imports: colorspace, methods
 Suggests: ggplot2, testthat
 License: MIT + file LICENSE
+
+Package: mvtnorm
+Version: 1.2-5
+Depends: R(>= 3.5.0)
+Imports: stats
+Suggests: qrng, numDeriv
+License: GPL-2
+Archs: x64
