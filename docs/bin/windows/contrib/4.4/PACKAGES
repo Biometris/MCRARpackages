@@ -703,3 +703,10 @@ Imports: Rcpp (>= 0.9.10)
 LinkingTo: Rcpp
 License: GPL-2
 Archs: x64
+
+Package: modelr
+Version: 0.1.11
+Depends: R (>= 3.2)
+Imports: broom, magrittr, purrr (>= 0.2.2), rlang (>= 1.0.6), tibble, tidyr (>= 0.8.0), tidyselect, vctrs
+Suggests: compiler, covr, ggplot2, testthat (>= 3.0.0)
+License: GPL-3
