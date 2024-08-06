@@ -760,3 +760,10 @@ Imports: askpass
 Suggests: curl, testthat (>= 2.1.0), digest, knitr, rmarkdown, jsonlite, jose, sodium
 License: MIT + file LICENSE
 Archs: x64
+
+Package: pbkrtest
+Version: 0.5.3
+Depends: R (>= 4.2.0), lme4 (>= 1.1.31)
+Imports: broom, dplyr, MASS, methods, numDeriv, Matrix (>= 1.2.3), doBy
+Suggests: markdown, knitr
+License: GPL (>= 2)
