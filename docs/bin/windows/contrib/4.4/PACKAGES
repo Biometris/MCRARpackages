@@ -562,3 +562,11 @@ Imports: cli (>= 3.0.0), curl (>= 5.1.0), glue, lifecycle, magrittr, openssl, R6
 Suggests: askpass, bench, clipr, covr, docopt, httpuv, jose, jsonlite, knitr, rmarkdown, testthat (>= 3.1.8), tibble,
              webfakes, xml2
 License: MIT + file LICENSE
+
+Package: huge
+Version: 1.3.5
+Depends: R (>= 3.0.0)
+Imports: Matrix, igraph, MASS, grDevices, graphics, methods, stats, utils, Rcpp
+LinkingTo: Rcpp, RcppEigen
+License: GPL-2
+Archs: x64
