@@ -539,3 +539,8 @@ Imports: grDevices, htmltools (>= 0.5.7), jsonlite (>= 0.9.16), knitr (>= 1.8), 
 Suggests: testthat
 Enhances: shiny (>= 1.1)
 License: MIT + file LICENSE
+
+Package: httpcode
+Version: 0.3.0
+Suggests: testthat
+License: MIT + file LICENSE
