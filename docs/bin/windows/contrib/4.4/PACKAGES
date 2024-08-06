@@ -685,3 +685,9 @@ Imports: graphics, stats
 Suggests: ggplot2, multcomp, RUnit
 License: BSD_2_clause + file LICENSE
 Archs: x64
+
+Package: mime
+Version: 0.12
+Imports: tools
+License: GPL
+Archs: x64
