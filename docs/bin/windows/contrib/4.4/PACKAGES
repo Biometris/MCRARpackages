@@ -281,3 +281,9 @@ Version: 0.33
 Imports: htmltools (>= 0.3.6), htmlwidgets (>= 1.3), httpuv, jsonlite (>= 0.9.16), magrittr, crosstalk, jquerylib, promises
 Suggests: knitr (>= 1.8), rmarkdown, shiny (>= 1.6), bslib, future, testit, tibble
 License: GPL-3 | file LICENSE
+
+Package: ellipse
+Version: 0.5.0
+Depends: R (>= 2.0.0),graphics,stats
+Suggests: MASS
+License: GPL (>= 2)
