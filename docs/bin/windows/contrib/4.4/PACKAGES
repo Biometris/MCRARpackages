@@ -882,3 +882,9 @@ Imports: methods, graphics, Matrix, MatrixModels, survival, MASS
 Suggests: interp, rgl, logspline, nor1mix, Formula, zoo, R.rsp, conquer
 License: GPL (>= 2)
 Archs: x64
+
+Package: R6
+Version: 2.5.1
+Depends: R (>= 3.0)
+Suggests: testthat, pryr
+License: MIT + file LICENSE
