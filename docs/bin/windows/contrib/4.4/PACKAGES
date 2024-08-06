@@ -311,3 +311,10 @@ Version: 1.5.1
 Depends: stats, R(>= 4.1.0)
 Suggests: knitr, rmarkdown
 License: GPL (>= 3)
+
+Package: evaluate
+Version: 0.24.0
+Depends: R (>= 4.0.0)
+Imports: methods
+Suggests: covr, ggplot2, lattice, rlang, testthat (>= 3.0.0), withr
+License: MIT + file LICENSE
