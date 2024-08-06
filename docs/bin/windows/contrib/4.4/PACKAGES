@@ -483,3 +483,9 @@ Depends: R (>= 3.6)
 Imports: cli (>= 3.0.1), gitcreds, glue, httr2, ini, jsonlite, lifecycle, rlang (>= 1.0.0)
 Suggests: covr, knitr, mockery, rmarkdown, rprojroot, spelling, testthat (>= 3.0.0), withr
 License: MIT + file LICENSE
+
+Package: gitcreds
+Version: 0.1.2
+Depends: R (>= 3.4)
+Suggests: codetools, covr, knitr, mockery, oskeyring, rmarkdown, testthat (>= 3.0.0), withr
+License: MIT + file LICENSE
