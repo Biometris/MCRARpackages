@@ -523,3 +523,12 @@ Depends: R (>= 3.3.0)
 Imports: xfun (>= 0.18)
 Suggests: knitr, markdown, testit
 License: GPL
+
+Package: htmltools
+Version: 0.5.8.1
+Depends: R (>= 2.14.1)
+Imports: base64enc, digest, fastmap (>= 1.1.0), grDevices, rlang (>= 1.0.0), utils
+Suggests: Cairo, markdown, ragg, shiny, testthat, withr
+Enhances: knitr
+License: GPL (>= 2)
+Archs: x64
