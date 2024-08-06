@@ -991,3 +991,9 @@ LinkingTo: cpp11
 Suggests: covr, R.methodsS3, R.oo, rmarkdown (>= 2.16), testthat (>= 3.1.2), yaml
 License: MIT + file LICENSE
 Archs: x64
+
+Package: rprojroot
+Version: 2.0.4
+Depends: R (>= 3.0.0)
+Suggests: covr, knitr, lifecycle, mockr, rlang, rmarkdown, testthat (>= 3.0.0), withr
+License: MIT + file LICENSE
