@@ -672,3 +672,9 @@ Version: 0.5-3
 Depends: R (>= 3.6.0)
 Imports: stats, methods, Matrix (>= 1.6-0)
 License: GPL (>= 2)
+
+Package: memoise
+Version: 2.0.1
+Imports: rlang (>= 0.4.10), cachem
+Suggests: digest, aws.s3, covr, googleAuthR, googleCloudStorageR, httr, testthat
+License: MIT + file LICENSE
