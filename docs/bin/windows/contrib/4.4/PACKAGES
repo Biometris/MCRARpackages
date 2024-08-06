@@ -360,3 +360,12 @@ Version: 1.01-2
 Depends: R (>= 2.3.0)
 License: GPL (>= 2)
 Archs: x64
+
+Package: flextable
+Version: 0.9.6
+Imports: data.table (>= 1.13.0), gdtools (>= 0.3.6), graphics, grDevices, grid, htmltools, knitr, officer (>= 0.6.5), ragg,
+             rlang, rmarkdown (>= 2.0), stats, utils, uuid (>= 0.1-4), xml2
+Suggests: bookdown (>= 0.34), broom, broom.mixed, chromote, cluster, commonmark, doconv (>= 0.3.0), equatags, ggplot2, lme4,
+             magick, mgcv, nlme, officedown, pdftools, pkgdown (>= 2.0.0), scales, svglite, tables (>= 0.9.17), testthat
+             (>= 3.0.0), webshot2, withr, xtable
+License: GPL-3
