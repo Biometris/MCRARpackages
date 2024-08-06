@@ -641,3 +641,10 @@ Version: 3.2
 Suggests: biglm
 License: GPL (>= 2)
 Archs: x64
+
+Package: lifecycle
+Version: 1.0.4
+Depends: R (>= 3.6)
+Imports: cli (>= 3.4.0), glue, rlang (>= 1.1.0)
+Suggests: covr, crayon, knitr, lintr, rmarkdown, testthat (>= 3.0.1), tibble, tidyverse, tools, vctrs, withr
+License: MIT + file LICENSE
