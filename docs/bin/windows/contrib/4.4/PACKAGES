@@ -1010,3 +1010,9 @@ Package: rstudioapi
 Version: 0.16.0
 Suggests: testthat, knitr, rmarkdown, clipr, covr
 License: MIT + file LICENSE
+
+Package: rversions
+Version: 2.1.2
+Imports: curl, utils, xml2 (>= 1.0.0)
+Suggests: covr, mockery, testthat
+License: MIT + file LICENSE
