@@ -691,3 +691,8 @@ Version: 0.12
 Imports: tools
 License: GPL
 Archs: x64
+
+Package: miniUI
+Version: 0.1.1.1
+Imports: shiny (>= 0.13), htmltools (>= 0.3), utils
+License: GPL-3
