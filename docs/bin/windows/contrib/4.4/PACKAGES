@@ -1260,3 +1260,11 @@ Suggests: testit, parallel, codetools, methods, rstudioapi, tinytex (>= 0.30), m
              htmltools, remotes, pak, rhub, renv, curl, xml2, jsonlite, magick, yaml, qs, rmarkdown
 License: MIT + file LICENSE
 Archs: x64
+
+Package: xml2
+Version: 1.3.6
+Depends: R (>= 3.6.0)
+Imports: cli, methods, rlang (>= 1.1.0)
+Suggests: covr, curl, httr, knitr, magrittr, mockery, rmarkdown, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Archs: x64
