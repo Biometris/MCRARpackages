@@ -767,3 +767,11 @@ Depends: R (>= 4.2.0), lme4 (>= 1.1.31)
 Imports: broom, dplyr, MASS, methods, numDeriv, Matrix (>= 1.2.3), doBy
 Suggests: markdown, knitr
 License: GPL (>= 2)
+
+Package: pillar
+Version: 1.9.0
+Imports: cli (>= 2.3.0), fansi, glue, lifecycle, rlang (>= 1.0.2), utf8 (>= 1.1.0), utils, vctrs (>= 0.5.0)
+Suggests: bit64, DBI, debugme, DiagrammeR, dplyr, formattable, ggplot2, knitr, lubridate, nanotime, nycflights13,
+             palmerpenguins, rmarkdown, scales, stringi, survival, testthat (>= 3.1.1), tibble, units (>= 0.7.2), vdiffr,
+             withr
+License: MIT + file LICENSE
