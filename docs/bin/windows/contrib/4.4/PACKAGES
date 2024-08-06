@@ -287,3 +287,11 @@ Version: 0.5.0
 Depends: R (>= 2.0.0),graphics,stats
 Suggests: MASS
 License: GPL (>= 2)
+
+Package: ellipsis
+Version: 0.3.2
+Depends: R (>= 3.2)
+Imports: rlang (>= 0.3.0)
+Suggests: covr, testthat
+License: MIT + file LICENSE
+Archs: x64
