@@ -1268,3 +1268,10 @@ Imports: cli, methods, rlang (>= 1.1.0)
 Suggests: covr, curl, httr, knitr, magrittr, mockery, rmarkdown, testthat (>= 3.0.0)
 License: MIT + file LICENSE
 Archs: x64
+
+Package: xopen
+Version: 1.0.1
+Depends: R (>= 3.1)
+Imports: processx
+Suggests: ps, testthat (>= 3.0.0)
+License: MIT + file LICENSE
