@@ -325,3 +325,12 @@ Depends: R (>= 3.1.2), ggplot2 (>= 2.2.0)
 Imports: abind, cluster, dendextend, FactoMineR, ggpubr(>= 0.1.5), grid, stats, reshape2, ggrepel, tidyr
 Suggests: ade4, ca, igraph, MASS, knitr, mclust
 License: GPL-2
+
+Package: FactoMineR
+Version: 2.11
+Depends: R (>= 4.0)
+Imports:
+             car,cluster,DT,ellipse,emmeans,flashClust,graphics,grDevices,lattice,leaps,MASS,multcompView,scatterplot3d,stats,utils,ggplot2,ggrepel
+Suggests: missMDA,knitr,Factoshiny,markdown
+License: GPL (>= 2)
+Archs: x64
