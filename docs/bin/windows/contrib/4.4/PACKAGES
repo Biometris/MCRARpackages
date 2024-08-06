@@ -1171,3 +1171,10 @@ LinkingTo: Rcpp
 Suggests: knitr, rmarkdown, testthat
 License: MIT + file LICENSE
 Archs: x64
+
+Package: urlchecker
+Version: 1.0.1
+Depends: R (>= 3.3)
+Imports: cli, curl, tools, xml2
+Suggests: covr
+License: GPL-3
