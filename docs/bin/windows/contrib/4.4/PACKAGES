@@ -730,3 +730,9 @@ Imports: stats
 Suggests: qrng, numDeriv
 License: GPL-2
 Archs: x64
+
+Package: nloptr
+Version: 2.1.1
+Suggests: knitr, rmarkdown, covr, tinytest
+License: LGPL (>= 3)
+Archs: x64
