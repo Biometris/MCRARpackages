@@ -620,3 +620,11 @@ Package: labeling
 Version: 0.4.3
 Imports: stats, graphics
 License: MIT + file LICENSE | Unlimited
+
+Package: later
+Version: 1.3.2
+Imports: Rcpp (>= 0.12.9), rlang
+LinkingTo: Rcpp
+Suggests: knitr, rmarkdown, testthat (>= 2.1.0)
+License: MIT + file LICENSE
+Archs: x64
