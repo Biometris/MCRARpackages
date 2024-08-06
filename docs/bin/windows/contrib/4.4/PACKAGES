@@ -427,3 +427,10 @@ Imports: askpass, credentials (>= 1.2.1), openssl (>= 2.0.3), rstudioapi (>= 0.1
 Suggests: spelling, knitr, rmarkdown, testthat
 License: MIT + file LICENSE
 Archs: x64
+
+Package: gfonts
+Version: 0.2.0
+Depends: R (>= 2.10)
+Imports: utils, htmltools, shiny, crul, jsonlite, glue, crayon
+Suggests: knitr, rmarkdown, testthat (>= 2.1.0), vcr, covr
+License: GPL-3
