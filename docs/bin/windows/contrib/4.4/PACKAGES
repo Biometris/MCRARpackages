@@ -806,3 +806,12 @@ Imports: cli (>= 3.3.0), desc, fs, glue, lifecycle, methods, pkgbuild, processx,
              (>= 2.4.3)
 Suggests: bitops, jsonlite, mathjaxr, pak, Rcpp, remotes, rstudioapi, testthat (>= 3.2.1.1), usethis
 License: GPL-3
+
+Package: plyr
+Version: 1.8.9
+Depends: R (>= 3.1.0)
+Imports: Rcpp (>= 0.11.0)
+LinkingTo: Rcpp
+Suggests: abind, covr, doParallel, foreach, iterators, itertools, tcltk, testthat
+License: MIT + file LICENSE
+Archs: x64
