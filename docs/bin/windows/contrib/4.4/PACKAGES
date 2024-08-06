@@ -1040,3 +1040,9 @@ Imports: cli, farver (>= 2.0.3), glue, labeling, lifecycle, munsell (>= 0.5), R6
              viridisLite
 Suggests: bit64, covr, dichromat, ggplot2, hms (>= 0.5.0), stringi, testthat (>= 3.0.0)
 License: MIT + file LICENSE
+
+Package: scatterplot3d
+Version: 0.3-44
+Depends: R (>= 2.7.0)
+Imports: grDevices, graphics, stats
+License: GPL-2
