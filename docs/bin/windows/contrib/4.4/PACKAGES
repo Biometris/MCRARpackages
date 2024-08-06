@@ -1025,3 +1025,10 @@ LinkingTo: Rcpp, gdtools
 Suggests: testthat, grid
 License: GPL-3
 Archs: x64
+
+Package: sass
+Version: 0.4.9
+Imports: fs (>= 1.2.4), rlang (>= 0.4.10), htmltools (>= 0.5.1), R6, rappdirs
+Suggests: testthat, knitr, rmarkdown, withr, shiny, curl
+License: MIT + file LICENSE
+Archs: x64
