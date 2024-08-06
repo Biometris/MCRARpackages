@@ -1252,3 +1252,11 @@ Depends: R (>= 3.6.0)
 Imports: graphics, grDevices
 Suggests: callr, DBI, knitr, methods, rlang, rmarkdown (>= 2.12), RSQLite, testthat (>= 3.0.0)
 License: MIT + file LICENSE
+
+Package: xfun
+Version: 0.46
+Imports: grDevices, stats, tools
+Suggests: testit, parallel, codetools, methods, rstudioapi, tinytex (>= 0.30), mime, markdown (>= 1.5), knitr (>= 1.47),
+             htmltools, remotes, pak, rhub, renv, curl, xml2, jsonlite, magick, yaml, qs, rmarkdown
+License: MIT + file LICENSE
+Archs: x64
