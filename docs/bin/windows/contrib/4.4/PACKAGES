@@ -152,3 +152,9 @@ Depends: R (>= 3.5.0)
 Suggests: bench, brio, callr, cli, covr, decor, desc, ggplot2, glue, knitr, lobstr, mockery, progress, rmarkdown, scales,
              Rcpp, testthat (>= 3.2.0), tibble, utils, vctrs, withr
 License: MIT + file LICENSE
+
+Package: crayon
+Version: 1.5.3
+Imports: grDevices, methods, utils
+Suggests: mockery, rstudioapi, testthat, withr
+License: MIT + file LICENSE
