@@ -716,3 +716,9 @@ Version: 0.1-10
 Imports: grid
 Suggests: multcomp, pgirmess, MASS
 License: GPL
+
+Package: munsell
+Version: 0.5.1
+Imports: colorspace, methods
+Suggests: ggplot2, testthat
+License: MIT + file LICENSE
