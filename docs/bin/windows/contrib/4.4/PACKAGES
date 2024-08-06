@@ -1079,3 +1079,11 @@ Imports: graphics, stats, utils
 Suggests: knitr
 License: GPL (>= 2)
 Archs: x64
+
+Package: stringi
+Version: 1.8.4
+Depends: R (>= 3.4)
+Imports: tools, utils, stats
+License: file LICENSE
+License_is_FOSS: yes
+Archs: x64
