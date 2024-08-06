@@ -1282,3 +1282,9 @@ Depends: R (>= 2.10.0)
 Imports: stats, utils
 Suggests: knitr, plm, zoo, survival
 License: GPL (>= 2)
+
+Package: yaml
+Version: 2.3.10
+Suggests: RUnit
+License: BSD_3_clause + file LICENSE
+Archs: x64
