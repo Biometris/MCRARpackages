@@ -1178,3 +1178,12 @@ Depends: R (>= 3.3)
 Imports: cli, curl, tools, xml2
 Suggests: covr
 License: GPL-3
+
+Package: urltools
+Version: 1.7.3
+Depends: R (>= 2.10)
+Imports: Rcpp, methods, triebeard
+LinkingTo: Rcpp
+Suggests: testthat, knitr
+License: MIT + file LICENSE
+Archs: x64
