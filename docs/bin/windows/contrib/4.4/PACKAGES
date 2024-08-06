@@ -126,3 +126,9 @@ Suggests: datasets, utils, KernSmooth, MASS, kernlab, mvtnorm, vcd, tcltk, shiny
              png, jpeg, knitr, rmarkdown, RColorBrewer, rcartocolor, scico, viridis, wesanderson
 License: BSD_3_clause + file LICENSE
 Archs: x64
+
+Package: commonmark
+Version: 1.9.1
+Suggests: curl, testthat, xml2
+License: BSD_2_clause + file LICENSE
+Archs: x64
