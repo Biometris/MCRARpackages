@@ -574,16 +574,6 @@ Suggests: ape (>= 5.7-0.1), callr, decor, digest, graph, igraphdata, knitr, rgl,
 License: GPL (>= 2)
 Archs: x64
 
-Package: igraph
-Version: 2.0.1
-Depends: methods, R (>= 3.5.0)
-Imports: cli, graphics, grDevices, lifecycle, magrittr, Matrix, pkgconfig (>= 2.0.0), rlang, stats, utils
-LinkingTo: cpp11 (>= 0.4.7)
-Suggests: ape (>= 5.7-0.1), callr, decor, digest, graph, igraphdata, knitr, rgl, rmarkdown, scales, stats4, tcltk, testthat,
-             vdiffr, withr
-License: GPL (>= 2)
-Archs: x64
-
 Package: ini
 Version: 0.3.1
 Suggests: testthat
@@ -827,14 +817,6 @@ Version: 1.2.0
 Depends: R(>= 2.10)
 Suggests: codetools, covr, testthat
 License: MIT + file LICENSE
-
-Package: proast70.3
-Version: 0.01
-License: Unlimited
-
-Package: proast70.3
-Version: 0.01
-License: Unlimited
 
 Package: proast71.1
 Version: 0.01
