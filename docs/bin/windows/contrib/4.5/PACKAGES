@@ -403,3 +403,8 @@ Version: 0.1.2
 Depends: R (>= 3.4)
 Suggests: codetools, covr, knitr, mockery, oskeyring, rmarkdown, testthat (>= 3.0.0), withr
 License: MIT + file LICENSE
+
+Package: glasso
+Version: 1.11
+License: GPL-2
+Archs: x64
