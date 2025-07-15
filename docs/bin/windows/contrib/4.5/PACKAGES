@@ -35,3 +35,17 @@ Depends: R (>= 3.6)
 Suggests: covr, testthat (>= 3.0.0)
 License: MIT + file LICENSE
 Archs: x64
+
+Package: broom
+Version: 1.0.8
+Depends: R (>= 3.5)
+Imports: backports, cli, dplyr (>= 1.0.0), generics (>= 0.0.2), glue, lifecycle, purrr, rlang (>= 1.1.0), stringr, tibble (>=
+              3.0.0), tidyr (>= 1.0.0)
+Suggests: AER, AUC, bbmle, betareg (>= 3.2-1), biglm, binGroup, boot, btergm (>= 1.10.6), car (>= 3.1-2), carData, caret, cluster,
+              cmprsk, coda, covr, drc, e1071, emmeans, epiR, ergm (>= 3.10.4), fixest (>= 0.9.0), gam (>= 1.15), gee, geepack,
+              ggplot2, glmnet, glmnetUtils, gmm, Hmisc, irlba, interp, joineRML, Kendall, knitr, ks, Lahman, lavaan (>= 0.6.18),
+              leaps, lfe, lm.beta, lme4, lmodel2, lmtest (>= 0.9.38), lsmeans, maps, margins, MASS, mclust, mediation, metafor,
+              mfx, mgcv, mlogit, modeldata, modeltests (>= 0.1.6), muhaz, multcomp, network, nnet, ordinal, plm, poLCA, psych,
+              quantreg, rmarkdown, robust, robustbase, rsample, sandwich, spdep (>= 1.1), spatialreg, speedglm, spelling, survey,
+              survival (>= 3.6-4), systemfit, testthat (>= 3.0.0), tseries, vars, zoo
+License: MIT + file LICENSE
