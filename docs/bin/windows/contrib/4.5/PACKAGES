@@ -301,3 +301,9 @@ Version: 2.1.2
 Suggests: covr, testthat (>= 3.0.0)
 License: MIT + file LICENSE
 Archs: x64
+
+Package: fastmap
+Version: 1.2.0
+Suggests: testthat (>= 2.1.1)
+License: MIT + file LICENSE
+Archs: x64
