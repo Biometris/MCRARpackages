@@ -146,3 +146,12 @@ Depends: R (>= 3.0.0)
 Suggests: spelling, testthat (>= 1.0.0), knitr, jsonlite, later, rmarkdown, httpuv (>= 1.4.4), webutils
 License: MIT + file LICENSE
 Archs: x64
+
+Package: dendextend
+Version: 1.19.0
+Depends: R (>= 3.0.0)
+Imports: utils, stats, datasets, magrittr (>= 1.0.1), ggplot2, viridis
+Suggests: knitr, rmarkdown, testthat, seriation, colorspace, ape, microbenchmark, gplots, heatmaply, dynamicTreeCut, pvclust,
+              corrplot, DendSer, MASS, cluster, fpc, circlize (>= 0.2.5), covr
+Enhances: ggdendro, dendroextras, Hmisc, data.table, rpart, WGCNA, moduleColor, distory, phangorn, zoo
+License: GPL-2 | GPL-3
