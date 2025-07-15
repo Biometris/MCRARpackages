@@ -204,3 +204,10 @@ Imports: utils
 Suggests: tinytest, simplermarkdown
 License: GPL (>= 2)
 Archs: x64
+
+Package: doBy
+Version: 4.7.0
+Depends: R (>= 4.2.0), methods
+Imports: boot, broom, cowplot, Deriv, dplyr, ggplot2, MASS, Matrix, modelr, microbenchmark, rlang, tibble, tidyr,
+Suggests: geepack, knitr, lme4, markdown, multcomp, pbkrtest (>= 0.5.2), survival, testthat (>= 2.1.0)
+License: GPL (>= 2)
