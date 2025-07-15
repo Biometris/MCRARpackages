@@ -1143,3 +1143,9 @@ Version: 2.3.10
 Suggests: RUnit
 License: BSD_3_clause + file LICENSE
 Archs: x64
+
+Package: zip
+Version: 2.3.3
+Suggests: covr, pillar, processx, R6, testthat, withr
+License: MIT + file LICENSE
+Archs: x64
