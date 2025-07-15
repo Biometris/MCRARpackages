@@ -674,3 +674,9 @@ Depends: R (>= 3.5)
 Imports: callr (>= 3.2.0), cli (>= 3.4.0), desc, processx, R6
 Suggests: covr, cpp11, knitr, Rcpp, rmarkdown, testthat (>= 3.2.0), withr (>= 2.3.0)
 License: MIT + file LICENSE
+
+Package: pkgconfig
+Version: 2.0.3
+Imports: utils
+Suggests: covr, testthat, disposables (>= 1.0.3)
+License: MIT + file LICENSE
