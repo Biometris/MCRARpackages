@@ -781,3 +781,11 @@ Version: 2.6.1
 Depends: R (>= 3.6)
 Suggests: lobstr, testthat (>= 3.0.0)
 License: MIT + file LICENSE
+
+Package: ragg
+Version: 1.4.0
+Imports: systemfonts (>= 1.0.3), textshaping (>= 0.3.0)
+LinkingTo: systemfonts, textshaping
+Suggests: covr, graphics, grid, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Archs: x64
