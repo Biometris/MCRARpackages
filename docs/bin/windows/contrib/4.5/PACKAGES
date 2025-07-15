@@ -741,3 +741,11 @@ Imports: htmlwidgets (>= 0.3.2), rlang (>= 1.1.0), vctrs
 Suggests: htmltools, knitr, rmarkdown, shiny, testthat (>= 3.0.0)
 License: MIT + file LICENSE
 Archs: x64
+
+Package: promises
+Version: 1.3.3
+Imports: fastmap (>= 1.1.0), later, magrittr (>= 1.5), R6, Rcpp, rlang, stats
+LinkingTo: later, Rcpp
+Suggests: future (>= 1.21.0), knitr, purrr, rmarkdown, spelling, testthat (>= 3.0.0), vembedr
+License: MIT + file LICENSE
+Archs: x64
