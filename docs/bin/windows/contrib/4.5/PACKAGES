@@ -384,3 +384,9 @@ Depends: R (>= 3.5.0)
 Imports: ggplot2 (>= 2.0.0), grDevices, scales
 Suggests: gridExtra, knitr, ragg, rmarkdown
 License: GPL (>= 3)
+
+Package: ggsignif
+Version: 0.6.4
+Imports: ggplot2 (>= 3.3.5)
+Suggests: knitr, rmarkdown, testthat, vdiffr (>= 1.0.2)
+License: GPL-3 | file LICENSE
