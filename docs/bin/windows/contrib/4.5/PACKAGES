@@ -641,3 +641,8 @@ Version: 2.2.1
 Suggests: knitr, rmarkdown, covr, tinytest
 License: LGPL (>= 3)
 Archs: x64
+
+Package: numDeriv
+Version: 2016.8-1.1
+Depends: R (>= 2.11.1)
+License: GPL-2
