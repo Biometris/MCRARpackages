@@ -1130,3 +1130,10 @@ Depends: R (>= 3.1)
 Imports: processx
 Suggests: ps, testthat (>= 3.0.0)
 License: MIT + file LICENSE
+
+Package: xtable
+Version: 1.8-4
+Depends: R (>= 2.10.0)
+Imports: stats, utils
+Suggests: knitr, plm, zoo, survival
+License: GPL (>= 2)
