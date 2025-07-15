@@ -430,3 +430,10 @@ Depends: R (>= 4.0)
 Imports: cli, glue, grid, lifecycle, rlang (>= 1.1.0), stats
 Suggests: covr, ggplot2, knitr, profvis, rmarkdown, testthat (>= 3.0.0)
 License: MIT + file LICENSE
+
+Package: highr
+Version: 0.11
+Depends: R (>= 3.3.0)
+Imports: xfun (>= 0.18)
+Suggests: knitr, markdown, testit
+License: GPL
