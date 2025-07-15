@@ -830,3 +830,9 @@ Depends: R (>= 2.15.0), methods
 Imports: tools, utils, rbibutils (>= 1.3)
 Suggests: grDevices, testthat, rstudioapi, rprojroot, gbRd
 License: GPL (>= 2)
+
+Package: reformulas
+Version: 0.4.1
+Imports: stats, methods, Matrix, Rdpack
+Suggests: lme4, tinytest, glmmTMB
+License: GPL-3
