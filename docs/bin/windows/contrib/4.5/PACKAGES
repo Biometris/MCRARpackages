@@ -796,3 +796,11 @@ Depends: R (>= 3.2)
 Suggests: roxygen2, testthat (>= 3.0.0), covr, withr
 License: MIT + file LICENSE
 Archs: x64
+
+Package: rbibutils
+Version: 2.3
+Depends: R (>= 2.10)
+Imports: utils, tools
+Suggests: testthat
+License: GPL-2
+Archs: x64
