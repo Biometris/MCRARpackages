@@ -545,3 +545,9 @@ Depends: R (>= 3.1.0)
 Suggests: knitr, rmarkdown (>= 0.2.65), testthat, covr
 License: GPL-3
 Archs: x64
+
+Package: leaps
+Version: 3.2
+Suggests: biglm
+License: GPL (>= 2)
+Archs: x64
