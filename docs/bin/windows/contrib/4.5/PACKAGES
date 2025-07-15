@@ -334,3 +334,10 @@ Suggests: covr, crayon, knitr, pillar (>= 1.0.0), rmarkdown, spelling, testthat 
               withr
 License: MIT + file LICENSE
 Archs: x64
+
+Package: generics
+Version: 0.1.4
+Depends: R (>= 3.6)
+Imports: methods
+Suggests: covr, pkgload, testthat (>= 3.0.0), tibble, withr
+License: MIT + file LICENSE
