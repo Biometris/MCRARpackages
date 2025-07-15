@@ -646,3 +646,10 @@ Package: numDeriv
 Version: 2016.8-1.1
 Depends: R (>= 2.11.1)
 License: GPL-2
+
+Package: openssl
+Version: 2.3.3
+Imports: askpass
+Suggests: curl, testthat (>= 2.1.0), digest, knitr, rmarkdown, jsonlite, jose, sodium
+License: MIT + file LICENSE
+Archs: x64
