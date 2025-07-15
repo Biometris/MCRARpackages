@@ -121,3 +121,9 @@ Imports: ggplot2 (>= 3.5.2), grid, gtable, grDevices, methods, rlang, scales
 Suggests: Cairo, covr, dplyr, forcats, gridGraphics (>= 0.4-0), knitr, lattice, magick, maps, PASWR, patchwork, rmarkdown, ragg,
               testthat (>= 1.0.0), tidyr, vdiffr (>= 0.3.0), VennDiagram
 License: GPL-2
+
+Package: crayon
+Version: 1.5.3
+Imports: grDevices, methods, utils
+Suggests: mockery, rstudioapi, testthat, withr
+License: MIT + file LICENSE
