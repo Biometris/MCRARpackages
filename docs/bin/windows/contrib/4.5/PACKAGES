@@ -1094,3 +1094,8 @@ Depends: R (>= 4.0)
 Imports: cli, diffobj (>= 0.3.4), glue, methods, rlang (>= 1.1.0)
 Suggests: bit64, R6, S7, testthat (>= 3.0.0), withr, xml2
 License: MIT + file LICENSE
+
+Package: whisker
+Version: 0.4.1
+Suggests: markdown
+License: GPL-3
