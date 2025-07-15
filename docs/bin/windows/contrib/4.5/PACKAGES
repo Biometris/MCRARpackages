@@ -108,3 +108,8 @@ Version: 2.0.0
 Suggests: curl, testthat, xml2
 License: BSD_2_clause + file LICENSE
 Archs: x64
+
+Package: corrplot
+Version: 0.95
+Suggests: seriation, knitr, RColorBrewer, rmarkdown, magrittr, prettydoc, testthat
+License: MIT + file LICENSE
