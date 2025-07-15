@@ -313,3 +313,10 @@ Version: 1.01-2
 Depends: R (>= 2.3.0)
 License: GPL (>= 2)
 Archs: x64
+
+Package: fontawesome
+Version: 0.5.3
+Depends: R (>= 3.3.0)
+Imports: rlang (>= 1.0.6), htmltools (>= 0.5.1.1)
+Suggests: covr, dplyr (>= 1.0.8), gt (>= 0.9.0), knitr (>= 1.31), testthat (>= 3.0.0), rsvg
+License: MIT + file LICENSE
