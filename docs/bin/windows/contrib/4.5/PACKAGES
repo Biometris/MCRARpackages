@@ -23,3 +23,8 @@ Depends: R (>= 2.9.0)
 Enhances: png
 License: GPL-2 | GPL-3
 Archs: x64
+
+Package: brew
+Version: 1.0-10
+Suggests: testthat (>= 3.0.0)
+License: GPL (>= 2)
