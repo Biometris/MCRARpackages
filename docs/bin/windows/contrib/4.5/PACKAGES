@@ -155,3 +155,9 @@ Suggests: knitr, rmarkdown, testthat, seriation, colorspace, ape, microbenchmark
               corrplot, DendSer, MASS, cluster, fpc, circlize (>= 0.2.5), covr
 Enhances: ggdendro, dendroextras, Hmisc, data.table, rpart, WGCNA, moduleColor, distory, phangorn, zoo
 License: GPL-2 | GPL-3
+
+Package: Deriv
+Version: 4.2.0
+Imports: methods
+Suggests: testthat (>= 0.11.0)
+License: GPL (>= 3)
