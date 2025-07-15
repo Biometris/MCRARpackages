@@ -627,3 +627,11 @@ Version: 0.1-10
 Imports: grid
 Suggests: multcomp, pgirmess, MASS
 License: GPL
+
+Package: mvtnorm
+Version: 1.3-3
+Depends: R(>= 3.5.0)
+Imports: stats
+Suggests: qrng, numDeriv
+License: GPL-2
+Archs: x64
