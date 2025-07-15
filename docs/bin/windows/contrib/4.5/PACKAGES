@@ -295,3 +295,9 @@ Imports: grDevices, utils
 Suggests: unitizer, knitr, rmarkdown
 License: GPL-2 | GPL-3
 Archs: x64
+
+Package: farver
+Version: 2.1.2
+Suggests: covr, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Archs: x64
