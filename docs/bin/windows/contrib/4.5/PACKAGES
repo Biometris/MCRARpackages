@@ -377,3 +377,10 @@ Suggests: knitr, rmarkdown, testthat, svglite, vdiffr, gridExtra, ggpp, patchwor
               magrittr, readr, stringr
 License: GPL-3 | file LICENSE
 Archs: x64
+
+Package: ggsci
+Version: 3.2.0
+Depends: R (>= 3.5.0)
+Imports: ggplot2 (>= 2.0.0), grDevices, scales
+Suggests: gridExtra, knitr, ragg, rmarkdown
+License: GPL (>= 3)
