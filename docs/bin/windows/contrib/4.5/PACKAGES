@@ -733,3 +733,11 @@ Suggests: callr (>= 3.7.3), cli (>= 3.3.0), codetools, covr, curl, debugme, para
               webfakes, withr
 License: MIT + file LICENSE
 Archs: x64
+
+Package: profvis
+Version: 0.4.0
+Depends: R (>= 4.0)
+Imports: htmlwidgets (>= 0.3.2), rlang (>= 1.1.0), vctrs
+Suggests: htmltools, knitr, rmarkdown, shiny, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Archs: x64
