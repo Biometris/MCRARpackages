@@ -462,3 +462,12 @@ LinkingTo: later, Rcpp
 Suggests: callr, curl, jsonlite, testthat, websocket
 License: GPL (>= 2) | file LICENSE
 Archs: x64
+
+Package: httr2
+Version: 1.2.0
+Depends: R (>= 4.1)
+Imports: cli (>= 3.0.0), curl (>= 6.4.0), glue, lifecycle, magrittr, openssl, R6, rappdirs, rlang (>= 1.1.0), vctrs (>= 0.6.3),
+              withr
+Suggests: askpass, bench, clipr, covr, docopt, httpuv, jose, jsonlite, knitr, later (>= 1.4.0), nanonext, paws.common, promises,
+              rmarkdown, testthat (>= 3.1.8), tibble, webfakes (>= 1.4.0), xml2
+License: MIT + file LICENSE
