@@ -927,3 +927,10 @@ Version: 0.3-44
 Depends: R (>= 2.7.0)
 Imports: grDevices, graphics, stats
 License: GPL-2
+
+Package: sessioninfo
+Version: 1.2.3
+Depends: R (>= 3.4)
+Imports: cli (>= 3.1.0), tools, utils
+Suggests: callr, covr, gh, reticulate, rmarkdown, testthat (>= 3.2.0), withr
+License: GPL-2
