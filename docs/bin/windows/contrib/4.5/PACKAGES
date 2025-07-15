@@ -907,3 +907,10 @@ Version: 2.1.2
 Imports: curl, utils, xml2 (>= 1.0.0)
 Suggests: covr, mockery, testthat
 License: MIT + file LICENSE
+
+Package: sass
+Version: 0.4.10
+Imports: fs (>= 1.2.4), rlang (>= 0.4.10), htmltools (>= 0.5.1), R6, rappdirs
+Suggests: testthat, knitr, rmarkdown, withr, shiny, curl
+License: MIT + file LICENSE
+Archs: x64
