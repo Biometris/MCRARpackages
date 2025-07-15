@@ -1099,3 +1099,10 @@ Package: whisker
 Version: 0.4.1
 Suggests: markdown
 License: GPL-3
+
+Package: withr
+Version: 3.0.2
+Depends: R (>= 3.6.0)
+Imports: graphics, grDevices
+Suggests: callr, DBI, knitr, methods, rlang, rmarkdown (>= 2.12), RSQLite, testthat (>= 3.0.0)
+License: MIT + file LICENSE
