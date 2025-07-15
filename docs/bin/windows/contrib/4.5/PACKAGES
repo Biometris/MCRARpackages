@@ -607,3 +607,10 @@ Package: miniUI
 Version: 0.1.2
 Imports: shiny (>= 0.13), htmltools (>= 0.3), utils
 License: GPL-3
+
+Package: minqa
+Version: 1.2.8
+Imports: Rcpp (>= 0.9.10)
+LinkingTo: Rcpp
+License: GPL-2
+Archs: x64
