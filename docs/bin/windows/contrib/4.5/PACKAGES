@@ -96,3 +96,9 @@ Suggests: callr, covr, crayon, digest, glue (>= 1.6.0), grDevices, htmltools, ht
               1.3.4.9000), rlang (>= 1.0.2.9003), rmarkdown, rprojroot, rstudioapi, testthat (>= 3.2.0), tibble, whoami, withr
 License: MIT + file LICENSE
 Archs: x64
+
+Package: clipr
+Version: 0.8.0
+Imports: utils
+Suggests: covr, knitr, rmarkdown, rstudioapi (>= 0.5), testthat (>= 2.0.0)
+License: GPL-3
