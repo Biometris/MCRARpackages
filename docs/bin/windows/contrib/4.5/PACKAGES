@@ -211,3 +211,10 @@ Depends: R (>= 4.2.0), methods
 Imports: boot, broom, cowplot, Deriv, dplyr, ggplot2, MASS, Matrix, modelr, microbenchmark, rlang, tibble, tidyr,
 Suggests: geepack, knitr, lme4, markdown, multcomp, pbkrtest (>= 0.5.2), survival, testthat (>= 2.1.0)
 License: GPL (>= 2)
+
+Package: downlit
+Version: 0.4.4
+Depends: R (>= 4.0.0)
+Imports: brio, desc, digest, evaluate, fansi, memoise, rlang, vctrs, withr, yaml
+Suggests: covr, htmltools, jsonlite, MASS, MassSpecWavelet, pkgload, rmarkdown, testthat (>= 3.0.0), xml2
+License: MIT + file LICENSE
