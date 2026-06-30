@@ -679,3 +679,10 @@ License: GPL (>= 2)
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-29 23:51:46 UTC; windows
 File: igraph_2.3.3.zip
+
+Package: ini
+Version: 0.3.1
+Suggests: testthat
+License: GPL-3
+Built: R 4.6.1; ; 2026-06-25 00:56:46 UTC; windows
+File: ini_0.3.1.zip
