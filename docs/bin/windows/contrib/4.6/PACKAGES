@@ -83,3 +83,13 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 01:50:41 UTC; windows
 File: cachem_1.1.0.zip
+
+Package: callr
+Version: 3.8.0
+Depends: R (>= 3.4)
+Imports: otel (>= 0.2.0), processx (>= 3.6.1), R6, utils
+Suggests: asciicast (>= 2.3.1), carrier, cli (>= 1.1.0), otelsdk (>= 0.2.0), ps, rprojroot, spelling, testthat (>= 3.2.0), withr (>=
+               2.3.0)
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:07:58 UTC; windows
+File: callr_3.8.0.zip
