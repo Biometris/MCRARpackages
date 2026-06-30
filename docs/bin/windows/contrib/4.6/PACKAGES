@@ -38,3 +38,12 @@ Suggests: testthat (>= 3.0.0)
 License: GPL (>= 2)
 Built: R 4.6.1; ; 2026-06-25 00:57:16 UTC; windows
 File: brew_1.0-10.zip
+
+Package: brio
+Version: 1.1.5
+Depends: R (>= 3.6)
+Suggests: covr, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:54 UTC; windows
+File: brio_1.1.5.zip
