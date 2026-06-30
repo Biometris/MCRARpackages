@@ -763,3 +763,11 @@ License: GPL-3
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 01:50:42 UTC; windows
 File: lazyeval_0.2.3.zip
+
+Package: leaps
+Version: 3.2
+Suggests: biglm
+License: GPL (>= 2)
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:57:53 UTC; windows
+File: leaps_3.2.zip
