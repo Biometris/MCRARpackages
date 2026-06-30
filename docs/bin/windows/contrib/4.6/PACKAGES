@@ -625,3 +625,12 @@ License: GPL (>= 2)
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 01:50:41 UTC; windows
 File: htmltools_0.5.9.zip
+
+Package: htmlwidgets
+Version: 1.6.4
+Imports: grDevices, htmltools (>= 0.5.7), jsonlite (>= 0.9.16), knitr (>= 1.8), rmarkdown, yaml
+Suggests: testthat
+Enhances: shiny (>= 1.1)
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 03:07:47 UTC; windows
+File: htmlwidgets_1.6.4.zip
