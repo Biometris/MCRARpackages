@@ -1034,3 +1034,12 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 03:08:19 UTC; windows
 File: profvis_0.4.0.zip
+
+Package: promises
+Version: 1.5.0
+Depends: R (>= 4.1.0)
+Imports: fastmap (>= 1.1.0), later, lifecycle, magrittr (>= 1.5), otel (>= 0.2.0), R6, rlang
+Suggests: future (>= 1.21.0), knitr, mirai, otelsdk (>= 0.2.0), purrr, Rcpp, rmarkdown, spelling, testthat (>= 3.0.0), vembedr
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:07:52 UTC; windows
+File: promises_1.5.0.zip
