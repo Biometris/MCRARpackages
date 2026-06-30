@@ -1514,3 +1514,14 @@ Suggests: callr, DBI, knitr, methods, rlang, rmarkdown (>= 2.12), RSQLite, testt
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 00:56:17 UTC; windows
 File: withr_3.0.3.zip
+
+Package: xfun
+Version: 0.59
+Depends: R (>= 3.2.0)
+Imports: grDevices, stats, tools
+Suggests: testit, parallel, codetools, methods, rstudioapi, tinytex (>= 0.30), mime, litedown (>= 0.6), commonmark, knitr (>= 1.50),
+               remotes, pak, curl, xml2, jsonlite, magick, yaml, data.table, qs2
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:17 UTC; windows
+File: xfun_0.59.zip
