@@ -473,3 +473,13 @@ License: GPL (>= 2)
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:20 UTC; windows
 File: fracdiff_1.5-4.zip
+
+Package: fs
+Version: 2.1.0
+Depends: R (>= 4.1)
+Imports: methods
+Suggests: covr, crayon, knitr, pillar (>= 1.0.0), rmarkdown, spelling, testthat (>= 3.0.0), tibble (>= 1.1.0), vctrs (>= 0.3.0), withr
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:15 UTC; windows
+File: fs_2.1.0.zip
