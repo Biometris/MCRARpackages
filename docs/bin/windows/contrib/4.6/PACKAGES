@@ -961,3 +961,11 @@ Suggests: covr, cpp11, knitr, Rcpp, rmarkdown, testthat (>= 3.2.0), withr (>= 2.
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:30:26 UTC; windows
 File: pkgbuild_1.4.8.zip
+
+Package: pkgconfig
+Version: 2.0.3
+Imports: utils
+Suggests: covr, testthat, disposables (>= 1.0.3)
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 00:56:15 UTC; windows
+File: pkgconfig_2.0.3.zip
