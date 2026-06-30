@@ -167,3 +167,11 @@ Suggests: Cairo, covr, dplyr, forcats, gridGraphics (>= 0.4-0), knitr, lattice, 
 License: GPL-2
 Built: R 4.6.1; ; 2026-06-25 02:50:59 UTC; windows
 File: cowplot_1.2.0.zip
+
+Package: crayon
+Version: 1.5.3
+Imports: grDevices, methods, utils
+Suggests: mockery, rstudioapi, testthat, withr
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 00:56:34 UTC; windows
+File: crayon_1.5.3.zip
