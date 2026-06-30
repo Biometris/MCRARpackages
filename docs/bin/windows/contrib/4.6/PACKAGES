@@ -200,3 +200,14 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.0; x86_64-w64-mingw32; 2026-06-20 01:35:55 UTC; windows
 File: curl_7.1.0.zip
+
+Package: dendextend
+Version: 1.19.1
+Depends: R (>= 3.0.0)
+Imports: utils, stats, datasets, magrittr (>= 1.0.1), ggplot2, viridis
+Suggests: knitr, rmarkdown, testthat, seriation, colorspace, ape, microbenchmark, gplots, heatmaply, dynamicTreeCut, pvclust, corrplot,
+               DendSer, MASS, cluster, fpc, circlize (>= 0.2.5), covr
+Enhances: ggdendro, dendroextras, Hmisc, data.table, rpart, WGCNA, moduleColor, distory, phangorn, zoo
+License: GPL-2 | GPL-3
+Built: R 4.6.1; ; 2026-06-25 02:52:03 UTC; windows
+File: dendextend_1.19.1.zip
