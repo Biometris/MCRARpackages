@@ -281,3 +281,12 @@ Suggests: geepack, knitr, lme4, markdown, rmarkdown, multcomp, pbkrtest (>= 0.5.
 License: GPL (>= 2)
 Built: R 4.6.1; ; 2026-06-25 04:31:33 UTC; windows
 File: doBy_4.7.1.zip
+
+Package: downlit
+Version: 0.4.5
+Depends: R (>= 4.0.0)
+Imports: brio, desc, digest, evaluate, fansi, memoise, rlang, vctrs, withr, yaml
+Suggests: covr, htmltools, jsonlite, MASS, MassSpecWavelet, pkgload, rmarkdown, testthat (>= 3.0.0), xml2
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:30:48 UTC; windows
+File: downlit_0.4.5.zip
