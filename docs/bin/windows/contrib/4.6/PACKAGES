@@ -605,3 +605,12 @@ Suggests: covr, ggplot2, knitr, profvis, rmarkdown, testthat (>= 3.0.0)
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:07:53 UTC; windows
 File: gtable_0.3.6.zip
+
+Package: highr
+Version: 0.12
+Depends: R (>= 3.3.0)
+Imports: xfun (>= 0.18)
+Suggests: knitr, markdown, testit
+License: GPL
+Built: R 4.6.1; ; 2026-06-25 01:50:44 UTC; windows
+File: highr_0.12.zip
