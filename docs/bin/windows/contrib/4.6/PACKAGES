@@ -905,3 +905,12 @@ Depends: R (>= 2.11.1)
 License: GPL-2
 Built: R 4.6.0; ; 2026-04-21 00:41:07 UTC; windows
 File: numDeriv_2016.8-1.1.zip
+
+Package: openssl
+Version: 2.4.2
+Imports: askpass
+Suggests: curl, testthat (>= 2.1.0), digest, knitr, rmarkdown, jsonlite, jose, sodium
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:08:01 UTC; windows
+File: openssl_2.4.2.zip
