@@ -1075,3 +1075,11 @@ License: GPL (>= 2)
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:30:22 UTC; windows
 File: quantreg_6.1.zip
+
+Package: R6
+Version: 2.6.1
+Depends: R (>= 3.6)
+Suggests: lobstr, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 00:56:15 UTC; windows
+File: R6_2.6.1.zip
