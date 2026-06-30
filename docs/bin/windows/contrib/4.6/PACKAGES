@@ -47,3 +47,19 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:54 UTC; windows
 File: brio_1.1.5.zip
+
+Package: broom
+Version: 1.0.13
+Depends: R (>= 4.1)
+Imports: backports, cli, dplyr (>= 1.0.0), generics (>= 0.0.2), glue, lifecycle, purrr, rlang (>= 1.1.0), stringr, tibble (>= 3.0.0),
+               tidyr (>= 1.0.0)
+Suggests: AER, AUC, bbmle, betareg (>= 3.2-1), biglm, binGroup, boot, btergm (>= 1.10.6), car (>= 3.1-2), carData, caret, cluster,
+               cmprsk, coda, covr, drc, e1071, emmeans, epiR (>= 2.0.85), ergm (>= 3.10.4), fixest (>= 0.9.0), gam (>= 1.15), gee,
+               geepack, ggplot2, glmnet, glmnetUtils, gmm, Hmisc, interp, irlba, joineRML, Kendall, knitr, ks, Lahman, lavaan (>=
+               0.6.18), leaps, lfe, lm.beta, lme4, lmodel2, lmtest (>= 0.9.38), lsmeans, maps, margins, MASS, mclust, mediation,
+               metafor, mfx, mgcv, mlogit, modeldata, modeltests (>= 0.1.6), muhaz, multcomp, network, nnet, ordinal, plm, poLCA,
+               psych, quantreg, rmarkdown, robust, robustbase, rsample, sandwich, spatialreg, spdep (>= 1.1), speedglm, spelling,
+               stats4, survey, survival (>= 3.6-4), systemfit, testthat (>= 3.0.0), tseries, vars, zoo
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 04:01:14 UTC; windows
+File: broom_1.0.13.zip
