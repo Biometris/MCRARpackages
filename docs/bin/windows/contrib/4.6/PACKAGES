@@ -990,3 +990,11 @@ Suggests: bitops, jsonlite, mathjaxr, pak, Rcpp, remotes, rstudioapi, testthat (
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:51:07 UTC; windows
 File: pkgload_1.5.3.zip
+
+Package: polynom
+Version: 1.4-1
+Imports: stats, graphics
+Suggests: knitr, rmarkdown
+License: GPL-2
+Built: R 4.6.1; ; 2026-06-25 00:56:19 UTC; windows
+File: polynom_1.4-1.zip
