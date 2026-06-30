@@ -839,3 +839,11 @@ License: BSD_2_clause + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:22 UTC; windows
 File: microbenchmark_1.5.0.zip
+
+Package: mime
+Version: 0.13
+Imports: tools
+License: GPL
+Archs: x64
+Built: R 4.6.0; x86_64-w64-mingw32; 2026-04-21 00:40:54 UTC; windows
+File: mime_0.13.zip
