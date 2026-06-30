@@ -339,3 +339,11 @@ Enhances: CARBayes, coxme, gee, geepack, MCMCglmm, MCMCpack, mice, nnet, pscl, r
 License: GPL-2 | GPL-3
 Built: R 4.6.1; ; 2026-06-25 01:51:17 UTC; windows
 File: emmeans_2.0.3.zip
+
+Package: estimability
+Version: 2.0.0
+Depends: stats, R(>= 4.1.0)
+Suggests: knitr, rmarkdown
+License: GPL (>= 3)
+Built: R 4.6.1; ; 2026-06-29 23:51:27 UTC; windows
+File: estimability_2.0.0.zip
