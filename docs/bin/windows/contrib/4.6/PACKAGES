@@ -969,3 +969,15 @@ Suggests: covr, testthat, disposables (>= 1.0.3)
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 00:56:15 UTC; windows
 File: pkgconfig_2.0.3.zip
+
+Package: pkgdown
+Version: 2.2.0
+Depends: R (>= 4.1)
+Imports: bslib (>= 0.5.1), callr (>= 3.7.3), cli (>= 3.6.1), desc (>= 1.4.0), downlit (>= 0.4.4), fontawesome, fs (>= 1.4.0), httr2 (>=
+               1.0.2), jsonlite, lifecycle, openssl, purrr (>= 1.0.0), ragg (>= 1.4.0), rlang (>= 1.1.4), rmarkdown (>= 2.27), tibble,
+               whisker, withr (>= 2.4.3), xml2 (>= 1.3.1), yaml (>= 2.3.9)
+Suggests: covr, diffviewer, evaluate (>= 0.24.0), gert, gt, htmltools, htmlwidgets, knitr (>= 1.50), magick, methods, pkgload (>=
+               1.0.2), quarto, rsconnect, rstudioapi, rticles, sass, testthat (>= 3.1.3), tools
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:51:42 UTC; windows
+File: pkgdown_2.2.0.zip
