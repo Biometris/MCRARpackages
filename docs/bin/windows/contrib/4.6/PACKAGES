@@ -922,3 +922,15 @@ Suggests: callr, cli, glue, jsonlite, otelsdk, processx, shiny, spelling, testth
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 00:56:17 UTC; windows
 File: otel_0.2.0.zip
+
+Package: pak
+Version: 0.10.0
+Depends: R (>= 3.5)
+Imports: tools, utils
+Suggests: callr (>= 3.7.0), cli (>= 3.2.0), covr, curl (>= 4.3.2), desc (>= 1.4.1), filelock (>= 1.0.2), gitcreds, glue (>= 1.6.2),
+               jsonlite (>= 1.8.0), keyring (>= 1.4.0), pingr, pkgbuild (>= 1.4.2), pkgcache (>= 2.2.4), pkgdepends (>= 0.9.0),
+               pkgload, pkgsearch (>= 3.1.0), processx (>= 3.8.1), ps (>= 1.6.0), rstudioapi, testthat (>= 3.2.0), webfakes, withr,
+               yaml
+License: GPL-3
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:58:20 UTC; windows
+File: pak_0.10.0.zip
