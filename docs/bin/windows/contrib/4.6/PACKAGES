@@ -411,3 +411,12 @@ License: GPL (>= 2)
 Archs: x64
 Built: R 4.6.0; x86_64-w64-mingw32; 2026-04-21 00:42:57 UTC; windows
 File: flashClust_1.1-4.zip
+
+Package: fontawesome
+Version: 0.5.3
+Depends: R (>= 3.3.0)
+Imports: rlang (>= 1.0.6), htmltools (>= 0.5.1.1)
+Suggests: covr, dplyr (>= 1.0.8), gt (>= 0.9.0), knitr (>= 1.31), testthat (>= 3.0.0), rsvg
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:07:52 UTC; windows
+File: fontawesome_0.5.3.zip
