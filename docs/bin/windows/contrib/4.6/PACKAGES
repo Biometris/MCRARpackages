@@ -524,3 +524,15 @@ Suggests: grDevices, knitr, RColorBrewer, gtable, testthat
 License: GPL (>= 2)
 Built: R 4.6.1; ; 2026-06-25 04:39:01 UTC; windows
 File: ggpubr_0.6.3.zip
+
+Package: ggrepel
+Version: 0.9.8
+Depends: R (>= 4.1.0), ggplot2 (>= 3.5.2)
+Imports: grid, Rcpp, rlang (>= 1.1.6), S7, scales (>= 1.4.0), withr (>= 3.0.2)
+LinkingTo: Rcpp
+Suggests: knitr, rmarkdown, testthat, svglite, vdiffr, gridExtra, ggpp, patchwork, devtools, prettydoc, ggbeeswarm, dplyr, magrittr,
+               readr, stringr, marquee, rsvg, sf
+License: GPL-3 | file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:50:59 UTC; windows
+File: ggrepel_0.9.8.zip
