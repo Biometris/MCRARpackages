@@ -457,3 +457,10 @@ License: GPL-3
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:51:01 UTC; windows
 File: forecast_9.0.2.zip
+
+Package: Formula
+Version: 1.2-5
+Depends: R (>= 2.0.0), stats
+License: GPL-2 | GPL-3
+Built: R 4.6.0; ; 2026-04-21 00:41:34 UTC; windows
+File: Formula_1.2-5.zip
