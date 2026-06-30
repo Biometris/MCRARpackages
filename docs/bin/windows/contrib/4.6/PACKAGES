@@ -262,3 +262,13 @@ License: GPL-2 | GPL-3
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:55 UTC; windows
 File: diffobj_0.3.6.zip
+
+Package: digest
+Version: 0.6.39
+Depends: R (>= 3.3.0)
+Imports: utils
+Suggests: tinytest, simplermarkdown, rbenchmark
+License: GPL (>= 2)
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:17 UTC; windows
+File: digest_0.6.39.zip
