@@ -1121,3 +1121,10 @@ Suggests: covr, knitr, mockery, processx, ps, rmarkdown, svglite, testthat, webf
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:30:50 UTC; windows
 File: rcmdcheck_1.4.0.zip
+
+Package: RColorBrewer
+Version: 1.1-3
+Depends: R (>= 2.0.0)
+License: Apache License 2.0
+Built: R 4.6.0; ; 2026-04-21 00:40:53 UTC; windows
+File: RColorBrewer_1.1-3.zip
