@@ -22,3 +22,12 @@ License: GPL-2 | GPL-3
 Archs: x64
 Built: R 4.6.0; x86_64-w64-mingw32; 2026-04-21 00:41:08 UTC; windows
 File: backports_1.5.1.zip
+
+Package: base64enc
+Version: 0.1-6
+Depends: R (>= 2.9.0)
+Enhances: png
+License: GPL-2 | GPL-3
+Archs: x64
+Built: R 4.6.0; x86_64-w64-mingw32; 2026-04-21 00:40:54 UTC; windows
+File: base64enc_0.1-6.zip
