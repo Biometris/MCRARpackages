@@ -1155,3 +1155,15 @@ Suggests: lme4, tinytest, glmmTMB, Formula
 License: GPL-3
 Built: R 4.6.1; ; 2026-06-25 02:07:55 UTC; windows
 File: reformulas_0.4.4.zip
+
+Package: rlang
+Version: 1.2.0
+Depends: R (>= 4.0.0)
+Imports: utils
+Suggests: cli (>= 3.1.0), covr, crayon, desc, fs, glue, knitr, magrittr, methods, pillar, pkgload, rmarkdown, stats, testthat (>=
+               3.3.2), tibble, usethis, vctrs (>= 0.2.3), withr
+Enhances: winch
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.0; x86_64-w64-mingw32; 2026-06-20 01:35:51 UTC; windows
+File: rlang_1.2.0.zip
