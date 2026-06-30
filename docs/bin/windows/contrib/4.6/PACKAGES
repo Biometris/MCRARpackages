@@ -735,3 +735,10 @@ Suggests: bslib, DBI (>= 0.4-1), digest, formatR, gifski, gridSVG, htmlwidgets (
 License: GPL
 Built: R 4.6.1; ; 2026-06-25 02:07:55 UTC; windows
 File: knitr_1.51.zip
+
+Package: labeling
+Version: 0.4.3
+Imports: stats, graphics
+License: MIT + file LICENSE | Unlimited
+Built: R 4.6.0; ; 2026-04-21 00:40:53 UTC; windows
+File: labeling_0.4.3.zip
