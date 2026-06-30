@@ -464,3 +464,12 @@ Depends: R (>= 2.0.0), stats
 License: GPL-2 | GPL-3
 Built: R 4.6.0; ; 2026-04-21 00:41:34 UTC; windows
 File: Formula_1.2-5.zip
+
+Package: fracdiff
+Version: 1.5-4
+Imports: stats
+Suggests: longmemo, forecast, urca
+License: GPL (>= 2)
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:20 UTC; windows
+File: fracdiff_1.5-4.zip
