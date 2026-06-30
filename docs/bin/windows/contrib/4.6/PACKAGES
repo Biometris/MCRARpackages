@@ -31,3 +31,10 @@ License: GPL-2 | GPL-3
 Archs: x64
 Built: R 4.6.0; x86_64-w64-mingw32; 2026-04-21 00:40:54 UTC; windows
 File: base64enc_0.1-6.zip
+
+Package: brew
+Version: 1.0-10
+Suggests: testthat (>= 3.0.0)
+License: GPL (>= 2)
+Built: R 4.6.1; ; 2026-06-25 00:57:16 UTC; windows
+File: brew_1.0-10.zip
