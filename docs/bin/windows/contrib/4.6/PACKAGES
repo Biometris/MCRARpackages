@@ -1525,3 +1525,13 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:17 UTC; windows
 File: xfun_0.59.zip
+
+Package: xml2
+Version: 1.6.0
+Depends: R (>= 3.6.0)
+Imports: cli, methods, rlang (>= 1.1.0)
+Suggests: covr, curl, httr, knitr, mockery, rmarkdown, testthat (>= 3.2.0), xslt
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-24 23:51:26 UTC; windows
+File: xml2_1.6.0.zip
