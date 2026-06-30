@@ -577,3 +577,14 @@ License: GPL-2
 Archs: x64
 Built: R 4.6.0; x86_64-w64-mingw32; 2026-04-21 00:43:28 UTC; windows
 File: glasso_1.11.zip
+
+Package: glue
+Version: 1.8.1
+Depends: R (>= 4.1)
+Imports: methods
+Suggests: crayon, DBI (>= 1.2.0), dplyr, knitr, rlang, rmarkdown, RSQLite, testthat (>= 3.2.0), vctrs (>= 0.3.0), waldo (>= 0.5.3),
+               withr
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:17 UTC; windows
+File: glue_1.8.1.zip
