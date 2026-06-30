@@ -655,3 +655,14 @@ Suggests: askpass, bench, clipr, covr, digest, docopt, httpuv, jose, jsonlite, k
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-24 23:51:15 UTC; windows
 File: httr2_1.2.3.zip
+
+Package: huge
+Version: 1.6
+Depends: R (>= 3.0.0)
+Imports: Matrix, igraph, MASS, grDevices, graphics, methods, stats, utils, Rcpp
+LinkingTo: Rcpp
+Suggests: testthat (>= 3.0.0)
+License: GPL-2
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:55:59 UTC; windows
+File: huge_1.6.zip
