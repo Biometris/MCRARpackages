@@ -35,14 +35,6 @@ options(dratBranch = "docs")
 
 tmpDir <- tempdir()
 
-## Add specific version of svglite (2.1.3), latest version (2.2.1) gives errors
-## in MCRA due to unclosed <g> tag in the resulting SVG
-download.file("https://cran.r-project.org/bin/windows/contrib/4.3/svglite_2.1.3.zip",
-              destfile = file.path(tmpDir, "svglite_2.1.3.zip"))
-insertPackage(file = file.path(tmpDir, "svglite_2.1.3.zip"),
-              repodir = paste0("."),
-              commit = CommitPackagesToRepo)
-
 ## Add proast to repo.
 ## proast is compiled for R 4.3.2.
 download.file("https://www.rivm.nl/sites/default/files/2025-06/proast71.1.zip",
