@@ -366,3 +366,14 @@ Suggests: ade4, ca, igraph, MASS, knitr, mclust, rmarkdown, testthat (>= 3.0.0)
 License: GPL-2
 Built: R 4.6.1; ; 2026-06-29 23:51:47 UTC; windows
 File: factoextra_2.1.0.zip
+
+Package: FactoMineR
+Version: 2.15
+Depends: R (>= 4.3)
+Imports:
+               car,cluster,DT,ellipse,emmeans,flashClust,graphics,grDevices,lattice,leaps,MASS,multcompView,scatterplot3d,stats,utils,ggplot2,ggrepel,irlba
+Suggests: missMDA,knitr,Factoshiny,markdown
+License: GPL (>= 2)
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 04:37:11 UTC; windows
+File: FactoMineR_2.15.zip
