@@ -112,3 +112,14 @@ Suggests: car (>= 3.0-0)
 License: GPL (>= 2)
 Built: R 4.6.1; ; 2026-06-25 00:56:19 UTC; windows
 File: carData_3.0-6.zip
+
+Package: cli
+Version: 3.6.6
+Depends: R (>= 3.4)
+Imports: utils
+Suggests: callr, covr, crayon, digest, glue (>= 1.6.0), grDevices, htmltools, htmlwidgets, knitr, methods, processx, ps (>=
+               1.3.4.9000), rlang (>= 1.0.2.9003), rmarkdown, rprojroot, rstudioapi, testthat (>= 3.2.0), tibble, whoami, withr
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.0; x86_64-w64-mingw32; 2026-06-20 01:35:48 UTC; windows
+File: cli_3.6.6.zip
