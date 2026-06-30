@@ -445,3 +445,15 @@ Suggests: testthat, htmltools
 License: GPL-3 | file LICENSE
 Built: R 4.6.1; ; 2026-06-25 00:57:53 UTC; windows
 File: fontquiver_0.2.1.zip
+
+Package: forecast
+Version: 9.0.2
+Depends: R (>= 4.1.0)
+Imports: colorspace, fracdiff, generics (>= 0.1.2), ggplot2 (>= 3.4.0), graphics, lmtest, magrittr, nnet, parallel, Rcpp (>= 0.12.4),
+               stats, timeDate, urca, withr, zoo
+LinkingTo: Rcpp (>= 0.12.4), RcppArmadillo (>= 0.2.35)
+Suggests: forecTheta, knitr, methods, rmarkdown, rticles, scales, seasonal, testthat (>= 3.3.0), uroot
+License: GPL-3
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:51:01 UTC; windows
+File: forecast_9.0.2.zip
