@@ -943,3 +943,12 @@ Suggests: nlme, markdown, knitr
 License: GPL (>= 2)
 Built: R 4.6.1; ; 2026-06-25 04:34:01 UTC; windows
 File: pbkrtest_0.5.5.zip
+
+Package: pillar
+Version: 1.11.1
+Imports: cli (>= 2.3.0), glue, lifecycle, rlang (>= 1.0.2), utf8 (>= 1.1.0), utils, vctrs (>= 0.5.0)
+Suggests: bit64, DBI, debugme, DiagrammeR, dplyr, formattable, ggplot2, knitr, lubridate, nanotime, nycflights13, palmerpenguins,
+               rmarkdown, scales, stringi, survival, testthat (>= 3.1.1), tibble, units (>= 0.7.2), vdiffr, withr
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:30:21 UTC; windows
+File: pillar_1.11.1.zip
