@@ -794,3 +794,13 @@ License: GPL (>= 2)
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:30:24 UTC; windows
 File: lme4_2.0-1.zip
+
+Package: lmtest
+Version: 0.9-40
+Depends: R (>= 3.0.0), stats, zoo
+Imports: graphics
+Suggests: car, strucchange, sandwich, dynlm, stats4, survival, AER
+License: GPL-2 | GPL-3
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:07:55 UTC; windows
+File: lmtest_0.9-40.zip
