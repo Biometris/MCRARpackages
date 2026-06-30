@@ -1481,3 +1481,11 @@ Suggests: hexbin (>= 1.27.0), scales, MASS, knitr, dichromat, colorspace, httr, 
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:51:10 UTC; windows
 File: viridis_0.6.5.zip
+
+Package: viridisLite
+Version: 0.4.3
+Depends: R (>= 2.10)
+Suggests: hexbin (>= 1.27.0), ggplot2 (>= 1.0.1), testthat, covr
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 00:56:16 UTC; windows
+File: viridisLite_0.4.3.zip
