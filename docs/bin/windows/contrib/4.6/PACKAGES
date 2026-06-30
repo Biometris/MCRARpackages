@@ -1413,3 +1413,11 @@ Suggests: RUnit
 License: GPL (>= 2)
 Built: R 4.6.0; ; 2026-06-04 01:25:52 UTC; windows
 File: timeDate_4052.112.zip
+
+Package: tinytex
+Version: 0.60
+Imports: xfun (>= 0.48)
+Suggests: testit, rstudioapi
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 01:50:44 UTC; windows
+File: tinytex_0.60.zip
