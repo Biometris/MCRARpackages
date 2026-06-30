@@ -780,3 +780,17 @@ Suggests: covr, knitr, lintr (>= 3.1.0), rmarkdown, testthat (>= 3.0.1), tibble,
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 01:50:43 UTC; windows
 File: lifecycle_1.0.5.zip
+
+Package: lme4
+Version: 2.0-1
+Depends: R (>= 3.6), Matrix, methods, stats
+Imports: MASS, Rdpack, boot, graphics, grid, lattice, minqa (>= 1.1.15), nlme (>= 3.1-123), nloptr (>= 1.0.4), parallel, reformulas (>=
+               0.4.3.1), rlang, splines, utils
+LinkingTo: Matrix (>= 1.5-0), Rcpp (>= 0.10.5), RcppEigen (>= 0.3.3.9.4)
+Suggests: HSAUR3, MEMSS, car, dfoptim, gamm4, ggplot2, glmmTMB, knitr, merDeriv, mgcv, mlmRev, numDeriv, optimx (>= 2013.8.6),
+               pbkrtest, rmarkdown, rr2, semEff, statmod, testthat (>= 0.8.1), tibble
+Enhances: DHARMa, performance
+License: GPL (>= 2)
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:30:24 UTC; windows
+File: lme4_2.0-1.zip
