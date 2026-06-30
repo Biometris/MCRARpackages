@@ -545,3 +545,11 @@ Suggests: gridExtra, knitr, ragg, rmarkdown
 License: GPL (>= 3)
 Built: R 4.6.1; ; 2026-06-29 23:51:28 UTC; windows
 File: ggsci_5.1.0.zip
+
+Package: ggsignif
+Version: 0.6.4
+Imports: ggplot2 (>= 3.3.5)
+Suggests: knitr, rmarkdown, testthat, vdiffr (>= 1.0.2)
+License: GPL-3 | file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:51:00 UTC; windows
+File: ggsignif_0.6.4.zip
