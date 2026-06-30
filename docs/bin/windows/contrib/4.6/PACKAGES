@@ -1053,3 +1053,15 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:57:05 UTC; windows
 File: ps_1.9.3.zip
+
+Package: purrr
+Version: 1.2.2
+Depends: R (>= 4.1)
+Imports: cli (>= 3.6.1), lifecycle (>= 1.0.3), magrittr (>= 1.5.0), rlang (>= 1.1.1), vctrs (>= 0.6.3)
+LinkingTo: cli
+Suggests: carrier (>= 0.3.0), covr, dplyr (>= 0.7.8), httr, knitr, lubridate, mirai (>= 2.5.1), rmarkdown, testthat (>= 3.0.0), tibble,
+               tidyselect
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:30:21 UTC; windows
+File: purrr_1.2.2.zip
