@@ -1242,3 +1242,12 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:07:53 UTC; windows
 File: sass_0.4.10.zip
+
+Package: scales
+Version: 1.4.0
+Depends: R (>= 4.1)
+Imports: cli, farver (>= 2.0.3), glue, labeling, lifecycle, R6, RColorBrewer, rlang (>= 1.1.0), viridisLite
+Suggests: bit64, covr, dichromat, ggplot2, hms (>= 0.5.0), stringi, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:07:53 UTC; windows
+File: scales_1.4.0.zip
