@@ -39,3 +39,48 @@ install.packages("ggplot2",
                  contriburl = "https://biometris.github.io/MCRARpackages/bin/windows/contrib/4.2",
                  type="win.binary")
 ```
+
+## Update R repository MCRA
+
+The dependencies for the R installation for MCRA are cached in this repository (win binaries) to
+be able to always have the same versions for a longer period (year) for MCRA as binary files.
+
+### Prepare local R installation
+
+- Install latest R version locally
+- Install drat package `install.packages('drat', 'packrat')`
+- Install git
+- Install MCRA packages using this R version manually:
+
+  using RStudio, install manually `deSolve factoextra glasso huge igraph jsonlite lme4`
+
+  or run this (choose a )
+
+  `install.packages(c('drat','packrat','deSolve','factoextra','glasso','huge','igraph','jsonlite','lme4'), dependencies=TRUE, type='win.binary', destdir='x:/r_downloaded_pkgs')`
+
+- Install [proast zip file](https://www.rivm.nl/sites/default/files/2025-06/proast71.1.zip) and OPEX package manually using `install from package archive`
+- Update MCRA to use the new version of R
+- Make it work, check everything
+
+After the local R installation is complete and MCRA works correctly, the `addMCRApackages.R` script can be run.
+
+### Test script locally
+
+To test the flow and not commit directly to GitHub, create a local bare repository, add it as remote to test the `addMCRApackages.R` script,
+do update the R script to use the local repo(s)
+
+```sh
+cd /x/Data/
+# Create a bare repository based on the github repo to use as the remote during the test.
+git clone --bare https://github.com/Biometris/MCRARpackages /x/Data/MCRARPackagesBare.git
+
+# OR clone to bare from local dev repo connected to github
+git clone --bare /d/Git2/MCRARPackages /x/Data/MCRARPackagesBare.git
+
+# Clone this repo to have it's remote set to the bare clone created above
+git clone MCRARPackagesBare.git rpackstest
+cd rpackstest/
+
+```
+
+Update the R script to test uploading a new version.
