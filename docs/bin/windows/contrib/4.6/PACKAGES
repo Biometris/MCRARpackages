@@ -821,3 +821,11 @@ Imports: stats, methods, Matrix (>= 1.6-0), Matrix(< 1.8-0)
 License: GPL (>= 2)
 Built: R 4.6.1; ; 2026-06-25 02:07:56 UTC; windows
 File: MatrixModels_0.5-4.zip
+
+Package: memoise
+Version: 2.0.1
+Imports: rlang (>= 0.4.10), cachem
+Suggests: digest, aws.s3, covr, googleAuthR, googleCloudStorageR, httr, testthat
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:07:52 UTC; windows
+File: memoise_2.0.1.zip
