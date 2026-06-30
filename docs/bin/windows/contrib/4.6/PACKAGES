@@ -934,3 +934,12 @@ Suggests: callr (>= 3.7.0), cli (>= 3.2.0), covr, curl (>= 4.3.2), desc (>= 1.4.
 License: GPL-3
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:58:20 UTC; windows
 File: pak_0.10.0.zip
+
+Package: pbkrtest
+Version: 0.5.5
+Depends: R (>= 4.2.0), lme4 (>= 1.1.31)
+Imports: broom, dplyr, MASS, methods, numDeriv, Matrix (>= 1.2.3), doBy (>= 4.6.22)
+Suggests: nlme, markdown, knitr
+License: GPL (>= 2)
+Built: R 4.6.1; ; 2026-06-25 04:34:01 UTC; windows
+File: pbkrtest_0.5.5.zip
