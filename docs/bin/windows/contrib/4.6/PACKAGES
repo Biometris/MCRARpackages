@@ -310,3 +310,11 @@ Suggests: bslib, future, httpuv, knitr (>= 1.8), rmarkdown, shiny (>= 1.6), test
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 03:28:47 UTC; windows
 File: DT_0.34.0.zip
+
+Package: ellipse
+Version: 0.5.0
+Depends: R (>= 2.0.0),graphics,stats
+Suggests: MASS
+License: GPL (>= 2)
+Built: R 4.6.1; ; 2026-06-25 00:59:27 UTC; windows
+File: ellipse_0.5.0.zip
