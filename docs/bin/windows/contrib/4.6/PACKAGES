@@ -492,3 +492,12 @@ Suggests: covr, pkgload, testthat (>= 3.0.0), tibble, withr
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 00:56:14 UTC; windows
 File: generics_0.1.4.zip
+
+Package: gert
+Version: 2.3.1
+Imports: askpass, credentials (>= 1.2.1), openssl (>= 2.0.3), rstudioapi (>= 0.11), sys, zip (>= 2.1.0)
+Suggests: spelling, knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:51:03 UTC; windows
+File: gert_2.3.1.zip
