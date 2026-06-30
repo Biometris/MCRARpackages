@@ -890,3 +890,11 @@ License: GPL-2
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:58 UTC; windows
 File: mvtnorm_1.4-1.zip
+
+Package: nloptr
+Version: 2.2.1
+Suggests: knitr, rmarkdown, covr, tinytest
+License: LGPL (>= 3)
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:20 UTC; windows
+File: nloptr_2.2.1.zip
