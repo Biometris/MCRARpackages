@@ -1471,3 +1471,13 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:07:52 UTC; windows
 File: vctrs_0.7.3.zip
+
+Package: viridis
+Version: 0.6.5
+Depends: R (>= 2.10), viridisLite (>= 0.4.0)
+Imports: ggplot2 (>= 1.0.1), gridExtra
+Suggests: hexbin (>= 1.27.0), scales, MASS, knitr, dichromat, colorspace, httr, mapproj, vdiffr, svglite (>= 1.2.0), testthat, covr,
+               rmarkdown, maps, terra
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:51:10 UTC; windows
+File: viridis_0.6.5.zip
