@@ -211,3 +211,11 @@ Enhances: ggdendro, dendroextras, Hmisc, data.table, rpart, WGCNA, moduleColor, 
 License: GPL-2 | GPL-3
 Built: R 4.6.1; ; 2026-06-25 02:52:03 UTC; windows
 File: dendextend_1.19.1.zip
+
+Package: Deriv
+Version: 4.2.0
+Imports: methods
+Suggests: testthat (>= 0.11.0)
+License: GPL (>= 3)
+Built: R 4.6.1; ; 2026-06-25 00:56:19 UTC; windows
+File: Deriv_4.2.0.zip
