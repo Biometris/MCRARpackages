@@ -104,3 +104,11 @@ Suggests: alr4, boot, coxme, effects, knitr, leaps, lmtest, Matrix, MatrixModels
 License: GPL (>= 2)
 Built: R 4.6.1; ; 2026-06-25 04:34:52 UTC; windows
 File: car_3.1-5.zip
+
+Package: carData
+Version: 3.0-6
+Depends: R (>= 3.5.0)
+Suggests: car (>= 3.0-0)
+License: GPL (>= 2)
+Built: R 4.6.1; ; 2026-06-25 00:56:19 UTC; windows
+File: carData_3.0-6.zip
