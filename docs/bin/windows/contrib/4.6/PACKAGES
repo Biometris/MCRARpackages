@@ -847,3 +847,10 @@ License: GPL
 Archs: x64
 Built: R 4.6.0; x86_64-w64-mingw32; 2026-04-21 00:40:54 UTC; windows
 File: mime_0.13.zip
+
+Package: miniUI
+Version: 0.1.2
+Imports: shiny (>= 0.13), htmltools (>= 0.3), utils
+License: GPL-3
+Built: R 4.6.1; ; 2026-06-25 03:07:47 UTC; windows
+File: miniUI_0.1.2.zip
