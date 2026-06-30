@@ -1329,3 +1329,11 @@ License: GPL (>= 2)
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:08:51 UTC; windows
 File: svglite_2.2.2.zip
+
+Package: sys
+Version: 3.4.3
+Suggests: unix (>= 1.4), spelling, testthat
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:15 UTC; windows
+File: sys_3.4.3.zip
