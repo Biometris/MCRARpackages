@@ -829,3 +829,13 @@ Suggests: digest, aws.s3, covr, googleAuthR, googleCloudStorageR, httr, testthat
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:07:52 UTC; windows
 File: memoise_2.0.1.zip
+
+Package: microbenchmark
+Version: 1.5.0
+Depends: R (>= 3.2.0)
+Imports: graphics, stats
+Suggests: ggplot2, multcomp, RUnit
+License: BSD_2_clause + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:22 UTC; windows
+File: microbenchmark_1.5.0.zip
