@@ -1251,3 +1251,11 @@ Suggests: bit64, covr, dichromat, ggplot2, hms (>= 0.5.0), stringi, testthat (>=
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:07:53 UTC; windows
 File: scales_1.4.0.zip
+
+Package: scatterplot3d
+Version: 0.3-45
+Depends: R (>= 2.7.0)
+Imports: grDevices, graphics, stats
+License: GPL-2
+Built: R 4.6.0; ; 2026-04-21 00:42:53 UTC; windows
+File: scatterplot3d_0.3-45.zip
