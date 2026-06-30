@@ -93,3 +93,14 @@ Suggests: asciicast (>= 2.3.1), carrier, cli (>= 1.1.0), otelsdk (>= 0.2.0), ps,
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:07:58 UTC; windows
 File: callr_3.8.0.zip
+
+Package: car
+Version: 3.1-5
+Depends: R (>= 3.5.0), carData (>= 3.0-0)
+Imports: abind, Formula, MASS, mgcv, nnet, pbkrtest (>= 0.4-4), quantreg, grDevices, utils, stats, graphics, lme4 (>= 1.1-27.1), nlme,
+               scales
+Suggests: alr4, boot, coxme, effects, knitr, leaps, lmtest, Matrix, MatrixModels, ordinal, plotrix, mvtnorm, rgl (>= 0.111.3), rio,
+               sandwich, SparseM, survival, survey
+License: GPL (>= 2)
+Built: R 4.6.1; ; 2026-06-25 04:34:52 UTC; windows
+File: car_3.1-5.zip
