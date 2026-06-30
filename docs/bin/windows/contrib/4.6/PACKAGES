@@ -1553,3 +1553,11 @@ Suggests: knitr, zoo, survival, glue, tinytex
 License: GPL (>= 2)
 Built: R 4.6.1; ; 2026-06-25 00:56:15 UTC; windows
 File: xtable_1.8-8.zip
+
+Package: yaml
+Version: 2.3.12
+Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
+License: BSD_3_clause + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:15 UTC; windows
+File: yaml_2.3.12.zip
