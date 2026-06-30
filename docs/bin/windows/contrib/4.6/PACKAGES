@@ -1259,3 +1259,12 @@ Imports: grDevices, graphics, stats
 License: GPL-2
 Built: R 4.6.0; ; 2026-04-21 00:42:53 UTC; windows
 File: scatterplot3d_0.3-45.zip
+
+Package: sessioninfo
+Version: 1.2.4
+Depends: R (>= 3.4)
+Imports: cli (>= 3.1.0), tools, utils
+Suggests: callr, covr, gh, reticulate, rmarkdown, testthat (>= 3.2.0), withr
+License: GPL-2
+Built: R 4.6.1; ; 2026-06-25 00:56:54 UTC; windows
+File: sessioninfo_1.2.4.zip
