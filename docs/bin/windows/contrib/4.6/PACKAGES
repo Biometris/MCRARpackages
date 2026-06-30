@@ -596,3 +596,12 @@ Suggests: ggplot2, egg, lattice, knitr, testthat
 License: GPL (>= 2)
 Built: R 4.6.1; ; 2026-06-29 23:51:27 UTC; windows
 File: gridExtra_2.3.1.zip
+
+Package: gtable
+Version: 0.3.6
+Depends: R (>= 4.0)
+Imports: cli, glue, grid, lifecycle, rlang (>= 1.1.0), stats
+Suggests: covr, ggplot2, knitr, profvis, rmarkdown, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:07:53 UTC; windows
+File: gtable_0.3.6.zip
