@@ -1208,3 +1208,10 @@ Suggests: knitr, rmarkdown, ggpubr, graphics, emmeans, coin, boot, testthat, spe
 License: GPL-2
 Built: R 4.6.1; ; 2026-06-25 04:37:08 UTC; windows
 File: rstatix_0.7.3.zip
+
+Package: rstudioapi
+Version: 0.19.0
+Suggests: testthat, knitr, rmarkdown, clipr, covr, curl, jsonlite, R6, withr
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 00:56:42 UTC; windows
+File: rstudioapi_0.19.0.zip
