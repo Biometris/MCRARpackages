@@ -1318,3 +1318,14 @@ Suggests: covr, dplyr, gt, htmltools, htmlwidgets, knitr, rmarkdown, testthat (>
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:30:21 UTC; windows
 File: stringr_1.6.0.zip
+
+Package: svglite
+Version: 2.2.2
+Depends: R (>= 4.1)
+Imports: base64enc, cli, lifecycle, rlang (>= 1.1.0), systemfonts (>= 1.3.0), textshaping (>= 0.3.0)
+LinkingTo: cpp11, systemfonts, textshaping
+Suggests: covr, fontquiver (>= 0.2.0), htmltools, knitr, rmarkdown, testthat (>= 3.0.0), xml2 (>= 1.0.0)
+License: GPL (>= 2)
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:08:51 UTC; windows
+File: svglite_2.2.2.zip
