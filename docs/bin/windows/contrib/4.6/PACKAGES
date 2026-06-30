@@ -1348,3 +1348,16 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 01:50:52 UTC; windows
 File: systemfonts_1.3.2.zip
+
+Package: testthat
+Version: 3.3.2
+Depends: R (>= 4.1.0)
+Imports: brio (>= 1.1.5), callr (>= 3.7.6), cli (>= 3.6.5), desc (>= 1.4.3), evaluate (>= 1.0.4), jsonlite (>= 2.0.0), lifecycle (>=
+               1.0.4), magrittr (>= 2.0.3), methods, pkgload (>= 1.4.0), praise (>= 1.0.0), processx (>= 3.8.6), ps (>= 1.9.1), R6 (>=
+               2.6.1), rlang (>= 1.1.6), utils, waldo (>= 0.6.2), withr (>= 3.0.2)
+Suggests: covr, curl (>= 0.9.5), diffviewer (>= 0.1.0), digest (>= 0.6.33), gh, knitr, otel, otelsdk, rmarkdown, rstudioapi, S7, shiny,
+               usethis, vctrs (>= 0.1.0), xml2
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 03:07:55 UTC; windows
+File: testthat_3.3.2.zip
