@@ -1395,3 +1395,12 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 03:28:45 UTC; windows
 File: tidyr_1.3.2.zip
+
+Package: tidyselect
+Version: 1.2.1
+Depends: R (>= 3.4)
+Imports: cli (>= 3.3.0), glue (>= 1.3.0), lifecycle (>= 1.0.3), rlang (>= 1.0.4), vctrs (>= 0.5.2), withr
+Suggests: covr, crayon, dplyr, knitr, magrittr, rmarkdown, stringr, testthat (>= 3.1.1), tibble (>= 2.1.3)
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:30:21 UTC; windows
+File: tidyselect_1.2.1.zip
