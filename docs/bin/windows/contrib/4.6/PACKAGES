@@ -1404,3 +1404,12 @@ Suggests: covr, crayon, dplyr, knitr, magrittr, rmarkdown, stringr, testthat (>=
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:30:21 UTC; windows
 File: tidyselect_1.2.1.zip
+
+Package: timeDate
+Version: 4052.112
+Depends: R (>= 3.6.0), methods
+Imports: graphics, utils, stats
+Suggests: RUnit
+License: GPL (>= 2)
+Built: R 4.6.0; ; 2026-06-04 01:25:52 UTC; windows
+File: timeDate_4052.112.zip
