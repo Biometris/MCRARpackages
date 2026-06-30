@@ -183,3 +183,11 @@ Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:30:21 UTC; windows
 File: credentials_2.0.3.zip
+
+Package: crosstalk
+Version: 1.2.2
+Imports: htmltools (>= 0.3.6), jsonlite, lazyeval, R6
+Suggests: bslib, ggplot2, sass, shiny, testthat (>= 2.1.0)
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:07:55 UTC; windows
+File: crosstalk_1.2.2.zip
