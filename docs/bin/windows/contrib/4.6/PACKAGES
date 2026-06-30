@@ -131,3 +131,14 @@ Suggests: covr, knitr, rmarkdown, rstudioapi (>= 0.5), testthat (>= 2.0.0)
 License: GPL-3
 Built: R 4.6.1; ; 2026-06-25 00:56:16 UTC; windows
 File: clipr_0.8.1.zip
+
+Package: colorspace
+Version: 2.1-2
+Depends: R (>= 3.0.0), methods
+Imports: graphics, grDevices, stats
+Suggests: datasets, utils, KernSmooth, MASS, kernlab, mvtnorm, vcd, tcltk, shiny, shinyjs, ggplot2, dplyr, scales, grid, png, jpeg,
+               knitr, rmarkdown, RColorBrewer, rcartocolor, scico, viridis, wesanderson
+License: BSD_3_clause + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:20 UTC; windows
+File: colorspace_2.1-2.zip
