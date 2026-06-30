@@ -420,3 +420,11 @@ Suggests: covr, dplyr (>= 1.0.8), gt (>= 0.9.0), knitr (>= 1.31), testthat (>= 3
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:07:52 UTC; windows
 File: fontawesome_0.5.3.zip
+
+Package: fontBitstreamVera
+Version: 0.1.1
+Depends: R (>= 3.0.0)
+License: file LICENCE
+License_is_FOSS: yes
+Built: R 4.6.0; ; 2026-04-21 00:43:40 UTC; windows
+File: fontBitstreamVera_0.1.1.zip
