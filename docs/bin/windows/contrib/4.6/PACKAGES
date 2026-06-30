@@ -428,3 +428,11 @@ License: file LICENCE
 License_is_FOSS: yes
 Built: R 4.6.0; ; 2026-04-21 00:43:40 UTC; windows
 File: fontBitstreamVera_0.1.1.zip
+
+Package: fontLiberation
+Version: 0.1.0
+Depends: R (>= 3.0)
+License: file LICENSE
+License_is_FOSS: yes
+Built: R 4.6.0; ; 2026-04-21 00:43:41 UTC; windows
+File: fontLiberation_0.1.0.zip
