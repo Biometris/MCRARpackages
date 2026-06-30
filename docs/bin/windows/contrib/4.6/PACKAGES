@@ -614,3 +614,14 @@ Suggests: knitr, markdown, testit
 License: GPL
 Built: R 4.6.1; ; 2026-06-25 01:50:44 UTC; windows
 File: highr_0.12.zip
+
+Package: htmltools
+Version: 0.5.9
+Depends: R (>= 2.14.1)
+Imports: base64enc, digest, fastmap (>= 1.1.0), grDevices, rlang (>= 1.0.0), utils
+Suggests: Cairo, markdown, ragg, shiny, testthat, withr
+Enhances: knitr
+License: GPL (>= 2)
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 01:50:41 UTC; windows
+File: htmltools_0.5.9.zip
