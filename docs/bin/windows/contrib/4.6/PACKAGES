@@ -5,3 +5,12 @@ Imports: methods, utils
 License: MIT + file LICENSE
 Built: R 4.6.0; ; 2026-04-21 00:41:32 UTC; windows
 File: abind_1.4-8.zip
+
+Package: askpass
+Version: 1.2.1
+Imports: sys (>= 2.1)
+Suggests: testthat
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 01:50:41 UTC; windows
+File: askpass_1.2.1.zip
