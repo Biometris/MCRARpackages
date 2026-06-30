@@ -686,3 +686,13 @@ Suggests: testthat
 License: GPL-3
 Built: R 4.6.1; ; 2026-06-25 00:56:46 UTC; windows
 File: ini_0.3.1.zip
+
+Package: irlba
+Version: 2.3.7
+Depends: R (>= 3.6.2), Matrix
+Imports: stats, methods
+LinkingTo: Matrix
+License: GPL-3
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:08:02 UTC; windows
+File: irlba_2.3.7.zip
