@@ -1505,3 +1505,12 @@ Suggests: markdown
 License: GPL-3
 Built: R 4.6.1; ; 2026-06-25 00:56:46 UTC; windows
 File: whisker_0.4.1.zip
+
+Package: withr
+Version: 3.0.3
+Depends: R (>= 3.6.0)
+Imports: graphics, grDevices
+Suggests: callr, DBI, knitr, methods, rlang, rmarkdown (>= 2.12), RSQLite, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 00:56:17 UTC; windows
+File: withr_3.0.3.zip
