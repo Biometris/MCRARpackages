@@ -536,3 +536,12 @@ License: GPL-3 | file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 02:50:59 UTC; windows
 File: ggrepel_0.9.8.zip
+
+Package: ggsci
+Version: 5.1.0
+Depends: R (>= 3.5.0)
+Imports: ggplot2 (>= 2.0.0), grDevices, rlang, scales
+Suggests: gridExtra, knitr, ragg, rmarkdown
+License: GPL (>= 3)
+Built: R 4.6.1; ; 2026-06-29 23:51:28 UTC; windows
+File: ggsci_5.1.0.zip
