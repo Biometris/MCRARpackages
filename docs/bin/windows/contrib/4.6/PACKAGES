@@ -1337,3 +1337,14 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:15 UTC; windows
 File: sys_3.4.3.zip
+
+Package: systemfonts
+Version: 1.3.2
+Depends: R (>= 3.2.0)
+Imports: base64enc, grid, jsonlite, lifecycle, tools, utils
+LinkingTo: cpp11 (>= 0.2.1)
+Suggests: covr, farver, ggplot2, graphics, knitr, ragg, rmarkdown, svglite, testthat (>= 2.1.0)
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 01:50:52 UTC; windows
+File: systemfonts_1.3.2.zip
