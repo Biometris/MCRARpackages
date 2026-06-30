@@ -1043,3 +1043,13 @@ Suggests: future (>= 1.21.0), knitr, mirai, otelsdk (>= 0.2.0), purrr, Rcpp, rma
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:07:52 UTC; windows
 File: promises_1.5.0.zip
+
+Package: ps
+Version: 1.9.3
+Depends: R (>= 3.4)
+Imports: utils
+Suggests: callr, covr, curl, pillar, pingr, processx (>= 3.1.0), R6, rlang, testthat (>= 3.0.0), webfakes, withr
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:57:05 UTC; windows
+File: ps_1.9.3.zip
