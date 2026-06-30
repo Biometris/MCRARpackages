@@ -1535,3 +1535,12 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-24 23:51:26 UTC; windows
 File: xml2_1.6.0.zip
+
+Package: xopen
+Version: 1.0.1
+Depends: R (>= 3.1)
+Imports: processx
+Suggests: ps, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:08:37 UTC; windows
+File: xopen_1.0.1.zip
