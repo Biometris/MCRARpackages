@@ -157,3 +157,13 @@ Suggests: seriation, knitr, RColorBrewer, rmarkdown, magrittr, prettydoc, testth
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 00:56:19 UTC; windows
 File: corrplot_0.95.zip
+
+Package: cowplot
+Version: 1.2.0
+Depends: R (>= 3.5.0)
+Imports: ggplot2 (>= 3.5.2), grid, gtable, grDevices, methods, rlang, scales
+Suggests: Cairo, covr, dplyr, forcats, gridGraphics (>= 0.4-0), knitr, lattice, magick, maps, PASWR, patchwork, rmarkdown, ragg,
+               testthat (>= 1.0.0), tidyr, vdiffr (>= 0.3.0), VennDiagram
+License: GPL-2
+Built: R 4.6.1; ; 2026-06-25 02:50:59 UTC; windows
+File: cowplot_1.2.0.zip
