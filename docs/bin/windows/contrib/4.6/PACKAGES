@@ -570,3 +570,10 @@ Suggests: codetools, covr, knitr, mockery, oskeyring, rmarkdown, testthat (>= 3.
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 00:56:46 UTC; windows
 File: gitcreds_0.1.2.zip
+
+Package: glasso
+Version: 1.11
+License: GPL-2
+Archs: x64
+Built: R 4.6.0; x86_64-w64-mingw32; 2026-04-21 00:43:28 UTC; windows
+File: glasso_1.11.zip
