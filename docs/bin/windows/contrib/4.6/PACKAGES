@@ -1,0 +1,7 @@
+Package: abind
+Version: 1.4-8
+Depends: R (>= 1.5.0)
+Imports: methods, utils
+License: MIT + file LICENSE
+Built: R 4.6.0; ; 2026-04-21 00:41:32 UTC; windows
+File: abind_1.4-8.zip
