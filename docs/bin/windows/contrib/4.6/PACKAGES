@@ -898,3 +898,10 @@ License: LGPL (>= 3)
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:20 UTC; windows
 File: nloptr_2.2.1.zip
+
+Package: numDeriv
+Version: 2016.8-1.1
+Depends: R (>= 2.11.1)
+License: GPL-2
+Built: R 4.6.0; ; 2026-04-21 00:41:07 UTC; windows
+File: numDeriv_2016.8-1.1.zip
