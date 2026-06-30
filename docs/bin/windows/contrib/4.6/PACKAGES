@@ -1223,3 +1223,13 @@ Suggests: pillar, testthat (>= 3.0.0), webfakes, withr
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 00:58:10 UTC; windows
 File: rversions_3.0.0.zip
+
+Package: S7
+Version: 0.2.2
+Depends: R (>= 3.5.0)
+Imports: utils
+Suggests: bench, callr, covr, knitr, methods, rmarkdown, testthat (>= 3.2.0), tibble
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:17 UTC; windows
+File: S7_0.2.2.zip
