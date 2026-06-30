@@ -1489,3 +1489,12 @@ Suggests: hexbin (>= 1.27.0), ggplot2 (>= 1.0.1), testthat, covr
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 00:56:16 UTC; windows
 File: viridisLite_0.4.3.zip
+
+Package: waldo
+Version: 0.6.2
+Depends: R (>= 4.0)
+Imports: cli, diffobj (>= 0.3.4), glue, methods, rlang (>= 1.1.0)
+Suggests: bit64, R6, S7, testthat (>= 3.0.0), withr, xml2
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 01:50:45 UTC; windows
+File: waldo_0.6.2.zip
