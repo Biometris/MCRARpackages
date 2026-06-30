@@ -52,11 +52,11 @@ be able to always have the same versions for a longer period (year) for MCRA as 
 - Install git
 - Install MCRA packages using this R version manually:
 
-  using RStudio, install manually `deSolve factoextra glasso huge igraph jsonlite lme4`
+  using RStudio, install manually `svglite deSolve factoextra glasso huge igraph jsonlite lme4`
 
   or run this (choose a )
 
-  `install.packages(c('drat','packrat','deSolve','factoextra','glasso','huge','igraph','jsonlite','lme4'), dependencies=TRUE, type='win.binary', destdir='x:/r_downloaded_pkgs')`
+  `install.packages(c('drat','packrat','svglite','deSolve','factoextra','glasso','huge','igraph','jsonlite','lme4'), dependencies=TRUE, type='win.binary', destdir='x:/r_downloaded_pkgs')`
 
 - Install [proast zip file](https://www.rivm.nl/sites/default/files/2025-06/proast71.1.zip) and OPEX package manually using `install from package archive`
 - Update MCRA to use the new version of R

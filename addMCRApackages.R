@@ -1,12 +1,16 @@
 library(drat)
 
 ## Configuration
-## Production values:
+## Production values
+## flag to commit the separate packages to the local repository
 CommitPackagesToRepo <- TRUE
 RemoteWriteRepo <- 'https://biometris.github.io/MCRARpackages'
-## Test values:
- #~ CommitPackagesToRepo <- FALSE
- #~ RemoteWriteRepo <- 'x:/Data/MCRARPackagesBare.git'
+## after the script completes, push manually to the remote repo.
+
+## Test values, adjust folder names to suit your test environment
+## uncomment these to run tests
+# CommitPackagesToRepo <- FALSE
+# RemoteWriteRepo <- 'x:/Data/MCRARPackagesBare.git'
 
 RemoteDownloadRepo <- 'https://cran.r-project.org'
 
@@ -49,15 +53,15 @@ insertPackage(file = file.path(tmpDir, "proast71.1_0.01.zip"),
 
 ## Add opex to repo.
 ## For opex the source code is available. From this we compiled binaries for
-## R4.5, (previously R.4.2 and R.4.3.) These are added to the repo.
-insertPackage(file = file.path("./opex/4.5", "opex_2.0.0.zip"),
+## R4.6, (previously R.4.2/3/4/5) These are added to the repo.
+insertPackage(file = file.path("./opex/4.6", "opex_2.0.0.zip"),
               repodir = paste0("."),
               commit = CommitPackagesToRepo)
 
 ## Add all other packages to github repo.
-## Packages are added for R versions 4.5.x. (previously 4.2.x and 4.3.x and 4.4.x)
+## Packages are added for R versions 4.x.y
 ## Only packages for which a newer version is available are added.
-for (Rver in c("4.5")) {
+for (Rver in c("4.6")) {
   repoLoc <- paste0(RemoteWriteRepo, "/bin/windows/contrib/", Rver)
   pkgInstMCRA <- as.data.frame(available.packages(repoLoc))
   for (i in 1:nrow(pkgInstDat)) {
