@@ -377,3 +377,13 @@ License: GPL (>= 2)
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 04:37:11 UTC; windows
 File: FactoMineR_2.15.zip
+
+Package: fansi
+Version: 1.0.7
+Depends: R (>= 3.1.0)
+Imports: grDevices, utils
+Suggests: unitizer, knitr, rmarkdown
+License: GPL-2 | GPL-3
+Archs: x64
+Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:58:07 UTC; windows
+File: fansi_1.0.7.zip
