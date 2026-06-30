@@ -1112,3 +1112,12 @@ License: GPL-2
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:20 UTC; windows
 File: rbibutils_2.4.1.zip
+
+Package: rcmdcheck
+Version: 1.4.0
+Imports: callr (>= 3.1.1.9000), cli (>= 3.0.0), curl, desc (>= 1.2.0), digest, pkgbuild, prettyunits, R6, rprojroot, sessioninfo (>=
+               1.1.1), utils, withr, xopen
+Suggests: covr, knitr, mockery, processx, ps, rmarkdown, svglite, testthat, webfakes
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 02:30:50 UTC; windows
+File: rcmdcheck_1.4.0.zip
