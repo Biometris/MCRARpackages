@@ -318,3 +318,12 @@ Suggests: MASS
 License: GPL (>= 2)
 Built: R 4.6.1; ; 2026-06-25 00:59:27 UTC; windows
 File: ellipse_0.5.0.zip
+
+Package: ellipsis
+Version: 0.3.3
+Depends: R (>= 3.2)
+Imports: rlang (>= 1.1.7)
+Suggests: covr, testthat
+License: MIT + file LICENSE
+Built: R 4.6.1; ; 2026-06-25 00:58:05 UTC; windows
+File: ellipsis_0.3.3.zip
