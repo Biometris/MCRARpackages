@@ -191,3 +191,12 @@ Suggests: bslib, ggplot2, sass, shiny, testthat (>= 2.1.0)
 License: MIT + file LICENSE
 Built: R 4.6.1; ; 2026-06-25 02:07:55 UTC; windows
 File: crosstalk_1.2.2.zip
+
+Package: curl
+Version: 7.1.0
+Depends: R (>= 3.0.0)
+Suggests: spelling, testthat (>= 1.0.0), knitr, jsonlite, later, rmarkdown, httpuv (>= 1.4.4), webutils
+License: MIT + file LICENSE
+Archs: x64
+Built: R 4.6.0; x86_64-w64-mingw32; 2026-06-20 01:35:55 UTC; windows
+File: curl_7.1.0.zip
