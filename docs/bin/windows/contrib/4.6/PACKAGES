@@ -813,3 +813,11 @@ License: MIT + file LICENSE
 Archs: x64
 Built: R 4.6.1; x86_64-w64-mingw32; 2026-06-25 00:56:16 UTC; windows
 File: magrittr_2.0.5.zip
+
+Package: MatrixModels
+Version: 0.5-4
+Depends: R (>= 3.6.0)
+Imports: stats, methods, Matrix (>= 1.6-0), Matrix(< 1.8-0)
+License: GPL (>= 2)
+Built: R 4.6.1; ; 2026-06-25 02:07:56 UTC; windows
+File: MatrixModels_0.5-4.zip
